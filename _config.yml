@@ -86,7 +86,7 @@ author:
   bio              : "School of Computer Science, Wuhan University"
   location         : "No. 299 Bayi Road, Wuhan"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  DBLP             : "https://dblp.org/pid/187/6055.html"
   googlescholar    : "https://scholar.google.com/citations?user=1C_mqjQAAAAJ&hl=en&oi=ao"
   email            :
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
