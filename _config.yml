@@ -85,8 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "School of Computer Science, Wuhan University"
   Mailing Address  : "No. 299 Bayi Road, Wuhan"
-  employer         :
-  DBLP             : "https://dblp.org/pid/187/6055.html"
+  employer         :  
   googlescholar    : "https://scholar.google.com/citations?user=1C_mqjQAAAAJ&hl=en&oi=ao"
   email            :
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  DBLP             : "https://dblp.org/pid/187/6055.html"
   orcid            : "http://orcid.org/0000-0002-2504-9607"
   pinterest        :
   soundcloud       :
