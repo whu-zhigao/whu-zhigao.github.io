@@ -14,7 +14,6 @@ Journal Papers
 -	Dong Zhao, Guojia Wan, Yibing Zhan, Zengmao Wang, Liang Ding, Zhigao Zheng, Bo Du. KE-X: Towards subgraph explanations of knowledge graph embedding based on knowledge information gain. Knowledge-Based Systems, 2023, 7,25, 110772
 - Guojia Wan, Zhengyun Zhou, Zhigao Zheng, Bo Du. Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion. Future Generation Computer Systems, 2023(148): 240-249. (IF: 7.307)
 - Zhigao Zheng, Chen Zhao, Peichen Xie, Bo Du. Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks, IEEE Journal on Selected Areas in Communications, 10.1109/JSAC.2023.3310071. (IF: 13.081, CCF A)
--	Zhigao Zheng, Chen Zhao, Peichen Xie, Bo Du. Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU. In Proceedings of the 2023 IEEE International Conference on Computer Communications (INFOCOM 2023). (CCF A)
 - Xuanhua Shi, Zhigao Zheng*, Yongluan Zhou, Hai Jin, Ligang He, Bo Liu, Qiang-Sheng Hua. Graph Processing on GPUs: A Survey, ACM Computing Surveys (CSUR), Jan. 2018, Article No.: 81. (IF: 14.324)
 -	Zhigao Zheng, Xuanhua Shi, Ligang He, Hai Jin, Shuo Wei, Hulin Dai, Xuan Peng. Feluca: A Two-Stage Graph Coloring Algorithm with Color-Centric Paradigm on GPU. IEEE Transactions on Parallel and Distributed Systems (TPDS). 2021. 32(1): 160-173. (IF: 3.757, CCF A)
 -	Zhigao Zheng, Xuanhua Shi, Hai Jin. Parallel Overlapping Community Detection Algorithm on GPU, IEEE Transactions on Big Data, 2023, 9(2): 677-687. (IF: 4.271)
