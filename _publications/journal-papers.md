@@ -1,5 +1,5 @@
 ---
-title: "Journal Papers"
+#title: "Journal Papers"
 collection: publications
 #permalink: /publication/journal-papers
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
