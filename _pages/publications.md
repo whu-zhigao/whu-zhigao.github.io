@@ -1,13 +1,14 @@
 ---
 permalink: /publication/
-title: "2023"
+#title: "2023"
 author_profile: true
 redirect_from: 
   - /md/
   - /publication.html
 ---
 
-
+2023
+=====
 -	Dong Zhao, Guojia Wan, Yibing Zhan, Zengmao Wang, Liang Ding, Zhigao Zheng, Bo Du. KE-X: Towards subgraph explanations of knowledge graph embedding based on knowledge information gain. Knowledge-Based Systems, 2023, 7,25, 110772
 - Guojia Wan, Zhengyun Zhou, Zhigao Zheng, Bo Du. Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion. Future Generation Computer Systems, 2023(148): 240-249. (IF: 7.307)
 - Zhigao Zheng, Chen Zhao, Peichen Xie, Bo Du. Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks, IEEE Journal on Selected Areas in Communications, 10.1109/JSAC.2023.3310071. (IF: 13.081, CCF A)
