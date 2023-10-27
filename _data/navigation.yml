@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV" #Here is the single paper, and the detailed contents are located in the folder _pages with the markdown file
-  #  url: /cv/
+  - title: "Useful Links" #Here is the single paper, and the detailed contents are located in the folder _pages with the markdown file
+    url: /links/
     
   #- title: "Guide"
   #  url: /markdown/
