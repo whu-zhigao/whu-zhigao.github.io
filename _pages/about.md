@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhigao Zheng's personal webpage"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
