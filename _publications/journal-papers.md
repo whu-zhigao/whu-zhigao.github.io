@@ -40,7 +40,6 @@ collection: publications
   
 2018
 =====
-
 -	Zhigao Zheng, Arun Kumar Sangaiah, Tao Wang. Adaptive Communication Protocols in Flying Ad-hoc Network. IEEE Communication Magazine, 2018, 56 (1):136-142 (IF: 9.03)
 - Zhigao Zheng, Nitin Saxena, K.K. Mishra, Arun Kumar Sangaiah. Guided dynamic particle swarm optimization for optimizing digital image watermarking in industry applications. Future Generation Computer Systems. 2018, 88: 92-106. (IF: 7.307)
 -	Zhigao Zheng, Zunxin Zheng. Towards an Improved Heuristic Genetic Algorithm for Static Content Delivery in Cloud Storage. Computers & Electrical Engineering. 2018, 69: 422-434. (IF: 4.152)
