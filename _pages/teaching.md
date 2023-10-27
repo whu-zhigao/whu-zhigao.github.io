@@ -1,4 +1,3 @@
-
 ---
 permalink: /teaching/
 title: "Teaching"
