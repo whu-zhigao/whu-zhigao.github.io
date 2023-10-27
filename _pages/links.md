@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Useful Links
-------
+
 - Information Center
   - [CCF Deadlines](https://ccfddl.github.io/)
   - [Computer Science Conference Rankings](http://www.ntu.edu.sg/home/assourav/crank.htm)
