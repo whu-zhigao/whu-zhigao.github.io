@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-======
-
-
 - A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
 ](https://ieeexplore.ieee.org/document/10269062)
 - A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/)
