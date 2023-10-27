@@ -13,7 +13,7 @@ redirect_from:
 - Guojia Wan, Zhengyun Zhou, **Zhigao Zheng**, Bo Du. Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion. Future Generation Computer Systems, 2023(148): 240-249. (IF: 7.5)
 - **Zhigao Zheng**, Chen Zhao, Peichen Xie, Bo Du. Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks, IEEE Journal on Selected Areas in Communications, 10.1109/JSAC.2023.3310071. (IF: 16.4, **CCF A**)
 - **Zhigao Zheng**, Chen Zhao, Peichen Xie, Bo Du. Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU. In Proceedings of the 2023 IEEE International Conference on Computer Communications (INFOCOM 2023). (**CCF A**)
-- Zhigao Zheng, Xuanhua Shi, Hai Jin. Parallel Overlapping Community Detection Algorithm on GPU, IEEE Transactions on Big Data, 2023, 9(2): 677-687. (IF: 7.2)
+- **Zhigao Zheng**, Xuanhua Shi, Hai Jin. Parallel Overlapping Community Detection Algorithm on GPU, IEEE Transactions on Big Data, 2023, 9(2): 677-687. (IF: 7.2)
 
 2022
 =====
