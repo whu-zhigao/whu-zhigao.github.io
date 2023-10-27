@@ -22,7 +22,6 @@ redirect_from:
 
 2021
 =====
-- Xuanhua Shi, **Zhigao Zheng***, Yongluan Zhou, Hai Jin, Ligang He, Bo Liu, Qiang-Sheng Hua. Graph Processing on GPUs: A Survey, ACM Computing Surveys (CSUR), Jan. 2018, Article No.: 81. (**IF: 16.6**)
 -	**Zhigao Zheng**, Xuanhua Shi, Ligang He, Hai Jin, Shuo Wei, Hulin Dai, Xuan Peng. Feluca: A Two-Stage Graph Coloring Algorithm with Color-Centric Paradigm on GPU. IEEE Transactions on Parallel and Distributed Systems (TPDS). 2021. 32(1): 160-173. (IF: 5.3, **CCF A**)
 -	**Zhigao Zheng**, Shahid Mumtaz, Mohammad R. Khosravi, Varun G. Menon. Linked Data Processing for Human-in-the-Loop in Cyber Physical Systems, IEEE Transactions on Computational Social Systems (TCSS), 2021, 8(5): 1238-1248. (IF: 5.0)
 
@@ -38,6 +37,7 @@ redirect_from:
 
 2018
 =====
+- Xuanhua Shi, **Zhigao Zheng***, Yongluan Zhou, Hai Jin, Ligang He, Bo Liu, Qiang-Sheng Hua. Graph Processing on GPUs: A Survey, ACM Computing Surveys (CSUR), Jan. 2018, Article No.: 81. (**IF: 16.6**)
 -	**Zhigao Zheng**, Arun Kumar Sangaiah, Tao Wang. Adaptive Communication Protocols in Flying Ad-hoc Network. IEEE Communication Magazine, 2018, 56 (1):136-142 (IF: 11.2)
 - **Zhigao Zheng**, Nitin Saxena, K.K. Mishra, Arun Kumar Sangaiah. Guided dynamic particle swarm optimization for optimizing digital image watermarking in industry applications. Future Generation Computer Systems. 2018, 88: 92-106. (IF: 7.5)
 -	**Zhigao Zheng**, Zunxin Zheng. Towards an Improved Heuristic Genetic Algorithm for Static Content Delivery in Cloud Storage. Computers & Electrical Engineering. 2018, 69: 422-434. (IF: 4.3)
