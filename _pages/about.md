@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+======
+
 Recent News
 ======
 - A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
