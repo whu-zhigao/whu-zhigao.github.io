@@ -1,6 +1,5 @@
 ---
 permalink: /publication/
-#title: "2023"
 author_profile: true
 redirect_from: 
   - /md/
