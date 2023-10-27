@@ -7,196 +7,37 @@ redirect_from:
   - /publication.html
 ---
 
-## Here is the publication list
+2023
+=====
+-	Dong Zhao, Guojia Wan, Yibing Zhan, Zengmao Wang, Liang Ding, Zhigao Zheng, Bo Du. KE-X: Towards subgraph explanations of knowledge graph embedding based on knowledge information gain. Knowledge-Based Systems, 2023, 7,25, 110772
+- Guojia Wan, Zhengyun Zhou, Zhigao Zheng, Bo Du. Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion. Future Generation Computer Systems, 2023(148): 240-249. (IF: 7.307)
+- Zhigao Zheng, Chen Zhao, Peichen Xie, Bo Du. Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks, IEEE Journal on Selected Areas in Communications, 10.1109/JSAC.2023.3310071. (IF: 13.081, CCF A)
+- Zhigao Zheng, Chen Zhao, Peichen Xie, Bo Du. Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU. In Proceedings of the 2023 IEEE International Conference on Computer Communications (INFOCOM 2023). (CCF A)
+- Zhigao Zheng, Xuanhua Shi, Hai Jin. Parallel Overlapping Community Detection Algorithm on GPU, IEEE Transactions on Big Data, 2023, 9(2): 677-687. (IF: 4.271)
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+2022
+=====
+-	Zhigao Zheng, Ali Kashif Bashir. Graph-enabled Intelligent Vehicular Network Data Processing, IEEE Transactions on Intelligent Transportation Systems (ITS), 2022. 23(5): 4726-4735. (IF: 9.551)
+-	Zhigao Zheng, Tao Wang, Ali Kashif Bashir, Mamoun Alazab, Shahid Mumtaz, Xiaoyan Wang. A Decentralized Mechanism for Privacy-Preserving Computation in Smart Grid. IEEE Transactions on Computers (TC), 2022. 71(11): 2915-2926. (IF: 3.183, CCF A)
 
-## Tips and hints
+2021
+=====
+- Xuanhua Shi, Zhigao Zheng*, Yongluan Zhou, Hai Jin, Ligang He, Bo Liu, Qiang-Sheng Hua. Graph Processing on GPUs: A Survey, ACM Computing Surveys (CSUR), Jan. 2018, Article No.: 81. (IF: 14.324)
+-	Zhigao Zheng, Xuanhua Shi, Ligang He, Hai Jin, Shuo Wei, Hulin Dai, Xuan Peng. Feluca: A Two-Stage Graph Coloring Algorithm with Color-Centric Paradigm on GPU. IEEE Transactions on Parallel and Distributed Systems (TPDS). 2021. 32(1): 160-173. (IF: 3.757, CCF A)
+-	Zhigao Zheng, Shahid Mumtaz, Mohammad R. Khosravi, Varun G. Menon. Linked Data Processing for Human-in-the-Loop in Cyber Physical Systems, IEEE Transactions on Computational Social Systems (TCSS), 2021, 8(5): 1238-1248. (IF: 4.747)
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+2020
+=====
+-	Zhigao Zheng, Tao Wang, Jinming Wen, Shahid Mumtaz, Ali Kashif Bashir, Sajjad Hussain Chauhdary. Differentially Private High-Dimensional Data Publication, IEEE Internet of Things Journal (IoT-J). 2020, 7(4): 2640-2650. (IF: 10.238)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+2019
+=====
+-	Tao Wang, Zhigao Zheng, Mubashir Husain Rehmani, Shihong Yao, Zheng Huo. Privacy Preservation in Big Data from the Communication Perspective - A Survey. IEEE Communications Surveys & Tutorials (CSTU). 2019, 21(1): 753-778. (IF: 25.249)
+-	Tao Wang, Zhigao Zheng *, Yun Lin, Shihong Yao, Xiao Xie. Reliable and Robust Unmanned Aerial Vehicle Wireless Video Transmission. IEEE Transactions on Reliability. 2019, 68(3): 1050-1060. (IF: 5.883)
+- Tao Wang, Zhigao Zheng, Mohamed Elhoseny. Equivalent mechanism: Releasing location data with errors through differential privacy. Future Generation Computer Systems. 2019, 98: 600-608. (IF: 7.307)
 
-## Markdown guide
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+2018
+=====
+-	Zhigao Zheng, Arun Kumar Sangaiah, Tao Wang. Adaptive Communication Protocols in Flying Ad-hoc Network. IEEE Communication Magazine, 2018, 56 (1):136-142 (IF: 9.03)
+- Zhigao Zheng, Nitin Saxena, K.K. Mishra, Arun Kumar Sangaiah. Guided dynamic particle swarm optimization for optimizing digital image watermarking in industry applications. Future Generation Computer Systems. 2018, 88: 92-106. (IF: 7.307)
+-	Zhigao Zheng, Zunxin Zheng. Towards an Improved Heuristic Genetic Algorithm for Static Content Delivery in Cloud Storage. Computers & Electrical Engineering. 2018, 69: 422-434. (IF: 4.152)
