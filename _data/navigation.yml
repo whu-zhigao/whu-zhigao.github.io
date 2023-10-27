@@ -6,11 +6,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching" # Here is the template of the collections pages, and the detailed contents are located in the folder _teaching
     url: /teaching/    
     
-  #- title: "Portfolio" # Here is the template of the collections pages, and the detailed contents are located in the folder _portfolio
-  #  url: /portfolio/
+  - title: "Research Group" 
+    url: /group/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
