@@ -22,7 +22,7 @@ Current Projects
 - Fundamental Research Funds for the Central Universities under Grant 2042023kf0135
 - China Postdoctoral Science Foundation under Grant 2022M722459
 - Natural Science Foundation of Hubei Province under Grant 2022CFB795
-- Knowledge Innovation Program of Wuhan - Basi Research.
+- Knowledge Innovation Program of Wuhan - Basi Research
 
 Awards
 ======
