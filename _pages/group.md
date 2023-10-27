@@ -15,4 +15,5 @@ Current Group Members:
 - Changshi Li, PhD student
 - Yuanhua Yang, Visting student
 - Peichen Xie, MSc student
+- Song Jin, MSc student
 - Yang Xiu, MSc student
