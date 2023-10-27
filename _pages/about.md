@@ -34,6 +34,7 @@ Recent Professional Services
 
 **Journal Editorial Experience**
 - [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) (Associate Editor From 2023)
+- [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) (Leading Guest of the Special Section: [Graph-powered Intelligent Data Processing for Consumer Electronics](https://ctsoc.ieee.org/images/TCE_FILES/TCE_SS_CFP_Special_Section_on_Graph-powered_Intelligent_Data_Processing_for_Consumer_final.pdf) 2022-2023)
 - [Mobile Networks and Applications](https://www.springer.com/journal/11036) (Associate Editor From 2023)
 - [Wireless Networks](https://www.springer.com/journal/11276) (Associate Editor From 2023)
 
