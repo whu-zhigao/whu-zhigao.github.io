@@ -27,6 +27,8 @@ Current Projects
 Awards
 ======
 
+The [Feluca](https://ieeexplore.ieee.org/document/9162529) paper got the [Outstanding Scientific and Technological Paper Award of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f)
+
 Recent Professional Services
 ======
 
