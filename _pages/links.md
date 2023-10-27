@@ -12,8 +12,8 @@ redirect_from:
 
 - Information Center
   - [CCF Deadlines](https://ccfddl.github.io/)
-  - [Computer Science Conference Rankings](http://www.ntu.edu.sg/home/assourav/crank.htm)
-  - [Computer Science Journal Rankings](http://www.ntu.edu.sg/home/assourav/jrank.htm)
+  - [Top Publication Venues in Computer Science](https://www.cs.cornell.edu/andru/csconf.html)
+
 - Misc.
   - [Essays about Computer Science by Douglas E. Comer](http://duda.imag.fr/Comer/research.html)
   - [How to Be a Good Graduate Student by Marie desJardins](http://www.cs.indiana.edu/how.2b/how.2b.html)
