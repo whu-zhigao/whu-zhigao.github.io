@@ -18,7 +18,7 @@ Current Group Members:
 - Yang Xiu, MSc student (2023~)
 - Yuanhua Yang, Visting student (2023.6-2024.6)
 
-Graduated PhD students:
+Graduated students:
 =====
 - Yonghong Ye, Thesis Title: Memory access strategies optimization for graph algorithms on GPU, June 2022
 - Song Jin, Thesis Title: Memory management technique optimization for dynamic neural networks, June 2022
