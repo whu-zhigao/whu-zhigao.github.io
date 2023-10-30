@@ -13,10 +13,10 @@ Current Group Members:
 =====
 - Chen Zhao, PhD student (2022~)
 - Changshi Li, PhD student (2023~)
-- Yuanhua Yang, Visting student (2023.6-2024.6)
 - Peichen Xie, MSc student (2022~)
 - Song Jin, MSc student (2023~)
 - Yang Xiu, MSc student (2023~)
+- Yuanhua Yang, Visting student (2023.6-2024.6)
 
 Graduated PhD students:
 =====
