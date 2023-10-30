@@ -11,9 +11,14 @@ redirect_from:
 
 Current Group Members:
 =====
-- Chen Zhao, PhD student
-- Changshi Li, PhD student
-- Yuanhua Yang, Visting student
-- Peichen Xie, MSc student
-- Song Jin, MSc student
-- Yang Xiu, MSc student
+- Chen Zhao, PhD student (2022~)
+- Changshi Li, PhD student (2023~)
+- Yuanhua Yang, Visting student (2023.6-2024.6)
+- Peichen Xie, MSc student (2022~)
+- Song Jin, MSc student (2023~)
+- Yang Xiu, MSc student (2023~)
+
+Graduated PhD students:
+=====
+Yonghong Ye, Thesis Title: Memory access strategies optimization for graph algorithms on GPU, June 2022
+Song Jin, Thesis Title: Memory management optimization for dynamic neural networks, June 2022
