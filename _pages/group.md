@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently recruiting **self-motivated and dedicated **Ph.D/M.S. students with solid background in systems, mathematics, etc.. If you are interested, come and talk to me, or drop me a message.
+I am currently recruiting **self-motivated and dedicated** Ph.D/M.S. students with solid background in systems, mathematics, etc.. If you are interested, come and talk to me, or drop me a message.
 
 Current Group Members:
 =====
