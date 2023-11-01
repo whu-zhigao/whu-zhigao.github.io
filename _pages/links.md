@@ -11,7 +11,7 @@ redirect_from:
 
 
 - Information Center
-  - [CCF Deadlines](https://ccfddl.github.io/)
+  - [CCF Deadlines](https://ccfddl.top/)
   - [Top Publication Venues in Computer Science](https://www.cs.cornell.edu/andru/csconf.html)
 
 - Misc.
