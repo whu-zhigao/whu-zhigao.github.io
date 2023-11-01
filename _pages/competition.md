@@ -1,4 +1,4 @@
-![image](https://github.com/whu-zhigao/whu-zhigao.github.io/assets/6846891/08b31174-b469-42a3-8faa-0273b820aea6)---
+---
 layout: archive
 #title: "Competition"
 permalink: /competition/
