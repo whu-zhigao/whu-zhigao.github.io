@@ -9,6 +9,9 @@ main:
   - title: "Teaching" 
     url: /teaching/    
     
+  - title: "Competition" 
+    url: /competition/    
+    
   - title: "Research Group" 
     url: /group/
         
