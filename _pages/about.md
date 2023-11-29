@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
+- **2023-11-15**: My Ph.D. thesis was selected as IEEE TCSC Outstanding Ph.D. Dissertation Award, 2023. Only five winners from worldwide!
+- **2023-8-5**: A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
 ](https://ieeexplore.ieee.org/document/10269062)
-- A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/)
+- **2022-12-2**: A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/)
 
 Short Bio
 ======
