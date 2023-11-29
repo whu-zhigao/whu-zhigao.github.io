@@ -14,8 +14,10 @@ redirect_from:
 - **2023-9-16**: I was elected as one of the executive committee members of the Technical Committee on Embedded Systems of CCF.
 - **2023-8-5**: A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
 ](https://ieeexplore.ieee.org/document/10269062)
-- **2023-8-4**：I was elected as one of the executive committee members of the Technical Committee on Distributed Computing and Systems of CCF.
+- **2023-8-4**: I was elected as one of the executive committee members of the Technical Committee on Distributed Computing and Systems of CCF.
 - **2023-7-12**: I will serve as an associate editor at [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html).
+- 2023-6-29: Our proposal "Graph Learning based Multi-source Heterogeneous Aerospace Big Data Fusion" is funded by the Knowledge Innovation Program
+of Wuhan - Basi Research.
 - **2023-6-21**: I will serve as a PC at [TheWebConf 2024](https://www2024.thewebconf.org/).
 - **2022-12-5**: Our proposal "Aerospace big data processing techniques on new architectures" is funded by the Natural Science Foundation of Hubei Province (HB-NSF).
 - **2022-12-2**: A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/)
