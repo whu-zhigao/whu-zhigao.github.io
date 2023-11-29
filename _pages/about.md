@@ -16,7 +16,7 @@ redirect_from:
 ](https://ieeexplore.ieee.org/document/10269062)
 - **2023-8-4**：I was elected as one of the executive committee members of the Technical Committee on Distributed Computing and Systems of CCF.
 - **2022-12-2**: A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/)
-- 2022-4-14: I received research funding from [Hieco](https://www.hieco.com.cn/).
+- **2022-4-14**: I received research funding from [Hieco](https://www.hieco.com.cn/).
 
 Short Bio
 ======
