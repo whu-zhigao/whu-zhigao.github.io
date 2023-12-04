@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-- **2023-11-23**: One of our works "Path Merging Based Betweenness Centrality Algorithm on GPU" was accepted by [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). The work will be presented on Chips 2023 and will compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).
+- **2023-11-23**: One of our works "Path Merging Based Betweenness Centrality Algorithm on GPU" was accepted by [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <p>The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).</p>
 - **2023-11-15**: My Ph.D. thesis was selected as IEEE TCSC Outstanding Ph.D. Dissertation Award, 2023. Only five winners from worldwide!
 - **2023-9-21**: Our proposal "Graph-Centric Multi-Source Big Data Processing Methods and Techniques" is funded by the NSFC Program.
 - **2023-9-16**: I was elected as one of the executive committee members of the Technical Committee on Embedded Systems of CCF.
-- **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) got the [Outstanding Scientific and Technological Paper Award of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f)
+- **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) got the [Outstanding Scientific and Technological Paper Award of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f).
 - **2023-8-5**: A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
-](https://ieeexplore.ieee.org/document/10269062)
+](https://ieeexplore.ieee.org/document/10269062).
 - **2023-8-4**: I was elected as one of the executive committee members of the Technical Committee on Distributed Computing and Systems of CCF.
 - **2023-7-12**: I will serve as an associate editor at [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html).
 - **2023-6-29**: Our proposal "Graph Learning based Multi-source Heterogeneous Aerospace Big Data Fusion" is funded by the [Knowledge Innovation Program of Wuhan - Basic Research](https://kjj.wuhan.gov.cn/zwgk_8/fdzdnrgk/sjczzxzj/gsgg/202306/t20230629_2223886.html).
 - **2023-6-21**: I will serve as a PC at [TheWebConf 2024](https://www2024.thewebconf.org/).
-- **2022-12-5**: Our proposal "Aerospace big data processing techniques on new architectures" is funded by the Natural Science Foundation of Hubei Province (HB-NSF).
-- **2022-12-2**: A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/)
+- **2023-4-10**: Our proposal "Intelligent Graph Processing on Heterogeneous Architecture" is found by [Key Research and Development Program of Hubei Province](https://kjt.hubei.gov.cn/kjdt/tzgg/202304/t20230410_4618307.shtml).
+- **2022-12-5**: Our proposal "Aerospace Big Data Processing Techniques on New Architectures" is funded by the Natural Science Foundation of Hubei Province (HB-NSF).
+- **2022-12-2**: A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/).
 - **2022-10-8**: I will serve as a PC at [TheWebConf 2023](https://www2023.thewebconf.org/).
 - **2022-4-14**: I received research funding from [Hieco](https://www.hieco.com.cn/).
 
@@ -31,6 +32,7 @@ Zhigao Zheng is with Wuhan University. He got a Ph.D. degree from Huazhong Unive
 Current Projects
 ======
 - National Natural Science Foundation of China under Grant 62372333
+- Key Research and Development Program of Hubei Province under Grant 2023BAB078
 - Knowledge Innovation Program of Wuhan - Basic Research under Grant 2023010201010063
 - Fundamental Research Funds for the Central Universities under Grant 2042023kf0135
 - China Postdoctoral Science Foundation under Grant 2022M722459
