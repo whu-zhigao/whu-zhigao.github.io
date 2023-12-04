@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- **2023-11-23**: One of our works "Path Merging Based Betweenness Centrality Algorithm on GPU" was accepted by [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <p>The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).</p>
+- **2023-11-23**: One of our works "Path Merging Based Betweenness Centrality Algorithm on GPU" was accepted by [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <!-- The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).-->
 - **2023-11-15**: My Ph.D. thesis was selected as IEEE TCSC Outstanding Ph.D. Dissertation Award, 2023. Only five winners from worldwide!
 - **2023-9-21**: Our proposal "Graph-Centric Multi-Source Big Data Processing Methods and Techniques" is funded by the NSFC Program.
 - **2023-9-16**: I was elected as one of the executive committee members of the Technical Committee on Embedded Systems of CCF.
