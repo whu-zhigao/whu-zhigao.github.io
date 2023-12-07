@@ -10,7 +10,7 @@ redirect_from:
 
 - **2023-12-4**: Our special section proposal, "[Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf)," was accepted by IEEE Transactions on Consumer Electronics.
 - **2023-11-23**: One of our works, "Path Merging Based Betweenness Centrality Algorithm on GPU," was accepted by [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <!-- The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).-->
-- **2023-11-15**: My Ph.D. thesis was selected as IEEE TCSC Outstanding Ph.D. Dissertation Award, 2023. Only five winners from worldwide!
+- **2023-11-15**: My Ph.D. thesis was selected as [IEEE TCSC Outstanding Ph.D. Dissertation Award](http://www.ieee-tcsc.org/thesis.php), 2023. Only five winners from worldwide!
 - **2023-9-21**: Our proposal, "Graph-Centric Multi-Source Big Data Processing Methods and Techniques," is funded by the NSFC Program.
 - **2023-9-16**: I was elected as one of the executive committee members of the Technical Committee on Embedded Systems of CCF.
 - **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) got the [Outstanding Scientific and Technological Paper Award of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f).
