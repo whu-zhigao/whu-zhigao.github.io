@@ -13,7 +13,9 @@ I am currently recruiting **self-motivated and dedicated** students, with solid 
 
 Competition Teams:
 =====
-- 2024 ASC:
+- 2024 ISC:
   - Team 1: Qi Liu (Team Leader), Jiarui Chen, Ziang Tian, Xiaobo Zhang, and Shixiang Luo
   - Team 2: Xianyi Wei (Team Leader), Zhongwei Xie, Haihang Zou, Hang Qiu, and Xirui Shui
   - Team 3: Yibang Wang (Team Leader), Jinyu Chen, Ziyuan Wei, Ziang Mao, and Haixiang Ni
+- 2024 ASC:
+  - Team: Qi Liu (Team Leader), Jiarui Chen, Ziang Tian, Xiaobo Zhang, and Shixiang Luo
