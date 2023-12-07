@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- **2023-12-4**: Our special section proposal, "Cloud-edge Collaboration for Consumer Electronics," was accepted by IEEE Transactions on Consumer Electronics.
+- **2023-12-4**: Our special section proposal, "[Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf)," was accepted by IEEE Transactions on Consumer Electronics.
 - **2023-11-23**: One of our works, "Path Merging Based Betweenness Centrality Algorithm on GPU," was accepted by [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <!-- The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).-->
 - **2023-11-15**: My Ph.D. thesis was selected as IEEE TCSC Outstanding Ph.D. Dissertation Award, 2023. Only five winners from worldwide!
 - **2023-9-21**: Our proposal, "Graph-Centric Multi-Source Big Data Processing Methods and Techniques," is funded by the NSFC Program.
@@ -49,7 +49,7 @@ Recent Professional Services
 ======
 
 **Journal Editorial Experience**
-- [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) (Leading Guest Editor of the Special Section: Cloud-edge Collaboration for Consumer Electronics, 2023-2024)
+- [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) (Leading Guest Editor of the Special Section: [Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf), 2023-2024)
 - [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) (Associate Editor From 2023)
 - [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) (Leading Guest Editor of the Special Section: [Graph-powered Intelligent Data Processing for Consumer Electronics](https://ctsoc.ieee.org/images/TCE_FILES/TCE_SS_CFP_Special_Section_on_Graph-powered_Intelligent_Data_Processing_for_Consumer_final.pdf). 2022-2023)
 - [Mobile Networks and Applications](https://www.springer.com/journal/11036) (Associate Editor From 2023)
