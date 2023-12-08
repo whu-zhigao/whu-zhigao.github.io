@@ -24,6 +24,7 @@ redirect_from:
 =====
 -	**Zhigao Zheng**, Xuanhua Shi, Ligang He, Hai Jin, Shuo Wei, Hulin Dai, Xuan Peng. Feluca: A Two-Stage Graph Coloring Algorithm with Color-Centric Paradigm on GPU. IEEE Transactions on Parallel and Distributed Systems (TPDS). 2021. 32(1): 160-173. (IF: 5.3, **CCF A**)
 -	**Zhigao Zheng**, Shahid Mumtaz, Mohammad R. Khosravi, Varun G. Menon. Linked Data Processing for Human-in-the-Loop in Cyber Physical Systems, IEEE Transactions on Computational Social Systems (TCSS), 2021, 8(5): 1238-1248. (IF: 5.0)
+-	Chao Tong, Baoyu Liang, Qiang Su, Mengbo Yu, Jiexuan Hu, Ali Kashif Bashir, **Zhigao Zheng***. Pulmonary Nodule Classification Based on Heterogeneous Features Learning, IEEE Journal on Selected Areas in Communications, 2021, 39(2): 574 - 581 (IF: 16.4, **CCF A**)
 
 2020
 =====
