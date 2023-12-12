@@ -30,5 +30,5 @@ Current Group Members:
 
 Graduated students:
 =====
-- Yonghong Ye, Thesis Title: Memory access strategies optimization for graph algorithms on GPU, June 2022
-- Song Jin, Thesis Title: Memory management technique optimization for dynamic neural networks, June 2022
+- Yonghong Ye, Thesis Title: Memory access strategies optimization for graph algorithms on GPU, June 2023
+- Song Jin, Thesis Title: Memory management technique optimization for dynamic neural networks, June 2023
