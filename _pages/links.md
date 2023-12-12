@@ -24,7 +24,7 @@ articles](http://matt.might.net/articles/).
   - [Dijkstra's Rules for Successful Scientific Research](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD637.html)
   - [Essays about Computer Science by Douglas E. Comer](http://duda.imag.fr/Comer/research.html)
   - Advice on [outlines and paper-writing from George Whitesides](http://www.ee.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf) (highest h-index of any living chemist).
-  - [Advice from Jason Eisner](http://www.cs.jhu.edu/~jason/advice/),including:
+  - [Advice from Jason Eisner](http://www.cs.jhu.edu/~jason/advice/), including:
     - [how to read a paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
     - [how to find research problems](http://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)
     - [why you should write the paper first](http://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)
