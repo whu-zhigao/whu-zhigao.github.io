@@ -78,25 +78,6 @@ Current Group Members:
   </div> 
 </div>
 
-<div style='display: none'>
-	
-- PhD students
- - Changshi Li (2023~)
- - Chen Zhao (2022~)
-- MSc students
- - Song Jin (2023~)
- - Yang Xiu (2023~)
- - Peichen Xie (2022~)
-- BSc students
- - Xirui Shui (2023~)
- - Xianyi Wei (2023~)
- - Xuan Xiao (2023~)
- - Hongyu Lu (2023~)
-- Visiting students
- - Yuanhua Yang (2023.6-2024.6)
-
-</div>
-
 Graduated students:
 =====
 - Yonghong Ye, Thesis Title: Memory access strategies optimization for graph algorithms on GPU, June 2023
