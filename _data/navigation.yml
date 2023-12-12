@@ -13,7 +13,7 @@ main:
     url: /competition/    
     
   - title: "Research Group" 
-    url: /group.html/
+    url: /group/
         
   #- title: "Blog Posts" # Here is the template of the collections pages, and the detailed contents are located in the folder _posts
   #  url: /year-archive/
