@@ -19,12 +19,12 @@ Current Group Members:
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
   <div>
-    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 33%;">
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p>Changshi Li</p>
     <p>(2023~)</p>
   </div>
   <div>
-    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 33%;">
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p>Chen Zhao</p>
     <p>(2022~)</p>
   </div>
@@ -34,17 +34,17 @@ Current Group Members:
 
 <div style="display: flex; justify-content: space-around;">
   <div>
-    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 33%;">
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p>Song Jin</p>
     <p>(2023~)</p>
   </div>
   <div>
-    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 33%;">
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p>Yang Xiu</p>
     <p>(2023~)</p>
   </div>
   <div>
-    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 33%;">
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p>Peichen Xie</p>
     <p>(2022~)</p>
   </div>
@@ -59,7 +59,7 @@ Current Group Members:
     <p>(2023~)</p>
   </div>
   <div>
-    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 33%;">
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p>Xianyi Wei</p>
     <p>(2023~)</p>
   </div>
@@ -73,7 +73,7 @@ Current Group Members:
 - **Visiting students**
   <div style="display: flex; justify-content: space-around;">
   <div>
-    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 33%;">
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p>Yuanhua Yang</p>
     <p>(2023.6~2024.6)</p>
   </div> 
