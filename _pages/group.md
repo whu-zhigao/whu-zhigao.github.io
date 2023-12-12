@@ -20,7 +20,12 @@ Current Group Members:
   - Song Jin (2023~)
   - Yang Xiu (2023~)
   - Peichen Xie (2022~)
-- Visting students
+- BSc students
+  - Xirui Shui (2023~)
+  - Xianyi Wei (2023~)
+  - Xuan Xiao (2023~)
+  - Hongyu Lu (2023~)
+- Visiting students
   - Yuanhua Yang (2023.6-2024.6)
 
 Graduated students:
