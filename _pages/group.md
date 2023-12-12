@@ -15,9 +15,9 @@ Current Group Members:
 =====
 
 <center>
-	<img src="/images/mstile-144x144.png" width="30%" />
+	<img src="/images/mstile-144x144.png" width="144" height="144"  />
 	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<img src="/images/mstile-144x144.png" width="30%" />
+	<img src="/images/mstile-144x144.png" width="144" height="144"  />
 	<br/>
 	<font color="AAAAAA">Student 1</font>
 	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
