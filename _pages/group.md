@@ -14,6 +14,21 @@ I am currently recruiting **self-motivated and dedicated** Ph.D/M.S. students wi
 Current Group Members:
 =====
 
+## Member 1
+
+![Image of Member 1](url_to_member1_image)
+*Caption for Member 1*
+
+Member 1's bio goes here.
+
+## Member 2
+
+![Image of Member 2](url_to_member2_image)
+*Caption for Member 2*
+
+Member 2's bio goes here.
+
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="flex-basis: 48%;">
         <img src="/images/mstile-144x144.png" width="144" height="144" alt="Image 1">
