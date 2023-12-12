@@ -17,7 +17,7 @@ redirect_from:
 - Misc.
 
   - HOWTO: [Be a Good Graduate Student by Marie desJardins](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/acm_gradschool2.htm)
-  - HOWTO: [write a good system paper](https://www.usenix.org/legacy/event/samples/submit/advice.html).
+  - HOWTO: [Write a good system paper](https://www.usenix.org/legacy/event/samples/submit/advice.html).
   - HOWTO: [Send and reply to email](http://matt.might.net/articles/how-to-email/). See [other
 articles](http://matt.might.net/articles/).
   - HOWTO: [Be a Successful Ph.D. Student (in Computer Science (in NLP/ML))](http://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf).
