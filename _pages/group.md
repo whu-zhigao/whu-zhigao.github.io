@@ -28,8 +28,9 @@ Current Group Members:
 - Visiting students
   - Yuanhua Yang (2023.6-2024.6)
  
-![](https://blog.ikke.moe/img/miui7.png)
-![](https://blog.ikke.moe/img/miui7.png)
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="../images/profiles.png"  width="200" height="260" ></div>
+
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="../images/profiles.png" width="200" height="260" ></div>
 
 Graduated students:
 =====
