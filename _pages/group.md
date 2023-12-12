@@ -31,7 +31,7 @@ Current Group Members:
 
 - **MSc students**
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: flex-start;">
   <div style="text-align: center; margin-right: 10px;">
     <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p style="margin-bottom: 0;">Song Jin</p>
@@ -51,7 +51,7 @@ Current Group Members:
 
 - **BSc students**
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: flex-start;">
   <div style="text-align: center; margin-right: 10px;">
     <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p style="margin-bottom: 0;">Xirui Shui</p>
@@ -91,7 +91,7 @@ Current Group Members:
 </div>
 
 - **Visiting students**
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: flex-start;">
   <div style="text-align: center; margin-right: 10px;">
     <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p style="margin-bottom: 0;">Yuanhua Yang</p>
