@@ -77,7 +77,14 @@ Current Group Members:
     <p style="margin-bottom: 0;">Yuqi Li</p>
     <p style="margin-top: 0;">(2023~)</p>
   </div>
-</br>
+</div>
+
+<div style="display: flex; justify-content: flex-start;">
+  <div style="text-align: center; margin-left: 10px;">
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p style="margin-bottom: 0;">Yuqi Li</p>
+    <p style="margin-top: 0;">(2023~)</p>
+  </div>
   <div style="text-align: center; margin-left: 10px;">
     <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p style="margin-bottom: 0;">Pai He</p>
