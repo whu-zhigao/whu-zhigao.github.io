@@ -28,10 +28,13 @@ Current Group Members:
 - Visiting students
   - Yuanhua Yang (2023.6-2024.6)
  
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="/images/mstile-144x144.png"  width="200" height="260" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="/images/mstile-144x144.png"  width="200" height="260" >
+<p class="caption">Student 1 </p>
+</div>
 
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="/images/mstile-144x144.png" width="200" height="260" ></div>
-
+</p>
+	
 <div class="polaroid rotate_left">
 	<img src="/images/mstile-144x144.png" alt="郁金香" width="284" height="213" />
 	<p class="caption">上海鲜花港的郁金香，花名：Ballade Dream。</p>
