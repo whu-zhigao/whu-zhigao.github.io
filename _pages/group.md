@@ -14,6 +14,22 @@ I am currently recruiting **self-motivated and dedicated** Ph.D/M.S. students wi
 Current Group Members:
 =====
 
+<center>
+	<img src="/images/mstile-144x144.png" width="30%" />
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	<img src="/images/mstile-144x144.png" width="30%" />
+	<br/>
+	<font color="AAAAAA">Student 1</font>
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	<font color="AAAAAA">Student 2</font>
+</center>
+<br/>
+
+
+
+
 <div align="center">
 	<img src="/images/mstile-144x144.png"/>
     <div align="center">
