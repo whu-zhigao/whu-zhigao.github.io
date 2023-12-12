@@ -14,6 +14,22 @@ I am currently recruiting **self-motivated and dedicated** Ph.D/M.S. students wi
 Current Group Members:
 =====
 
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>姓名</p>
+    <p>职位</p>
+  </div>
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>姓名</p>
+    <p>职位</p>
+  </div>
+  <!-- 更多的个人信息 -->
+</div>
+
+
+
 ## Member 1
 
 ![Image of Member 1](url_to_member1_image)
