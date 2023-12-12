@@ -27,6 +27,9 @@ Current Group Members:
   - Hongyu Lu (2023~)
 - Visiting students
   - Yuanhua Yang (2023.6-2024.6)
+ 
+![](https://blog.ikke.moe/img/miui7.png)
+![](https://blog.ikke.moe/img/miui7.png)
 
 Graduated students:
 =====
