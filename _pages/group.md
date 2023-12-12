@@ -14,26 +14,9 @@ I am currently recruiting **self-motivated and dedicated** Ph.D/M.S. students wi
 Current Group Members:
 =====
 
-```{r 'xy_images', fig.width = 8,fig.height = 4.5, 
-    fig.show='hold',fig.pos='H'fig.cap="X image (A) and Y image (B)"}
-
-
-library(png);library(raster)
-
-X <-readPNG("/images/mstile-144x144.png")
-Y <-readPNG("/images/mstile-144x144.png")
-
-#set up figure
-par(mar=c(0,0,0,0), xpd=NA, mgp=c(0,0,0), 
-    oma=c(0,0,0,0), ann=F, mfrow = c(1,2))
-plot.new()
-usr<-par("usr")
-
-#fill plot with images
-rasterImage(X, usr[1], usr[3], usr[2], usr[4])
-rasterImage(Y, usr[1]+1.1, usr[3], usr[2]+1.1, usr[4])
-
-```
+|:-:|:-:|
+|![First Image](/images/mstile-144x144.png)|![Second Image](/images/mstile-144x144.png)|
+|First Image|Second Image|
 
 
 <center>
