@@ -28,7 +28,6 @@ redirect_from:
 - **2022-12-2**: A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/).
 - **2022-10-8**: I will serve as a PC at [TheWebConf 2023](https://www2023.thewebconf.org/).
 - **2022-4-14**: I received research funding from [Hieco](https://www.hieco.com.cn/).
-
 -->
 
 Short Bio
