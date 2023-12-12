@@ -14,70 +14,69 @@ I am currently recruiting **self-motivated and dedicated** Ph.D/M.S. students wi
 Current Group Members:
 =====
 
+- **PhD students**
+
 <div style="display: flex; justify-content: space-around;">
   <div>
     <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
-    <p>姓名</p>
-    <p>职位</p>
+    <p>Changshi Li</p>
+    <p>(2023~)</p>
   </div>
   <div>
     <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
-    <p>姓名</p>
-    <p>职位</p>
+    <p>Chen Zhao</p>
+    <p>(2022~)</p>
   </div>
-  <!-- 更多的个人信息 -->
 </div>
 
+- **MSc students**
 
-
-## Member 1
-
-![Image of Member 1](url_to_member1_image)
-*Caption for Member 1*
-
-Member 1's bio goes here.
-
-## Member 2
-
-![Image of Member 2](url_to_member2_image)
-*Caption for Member 2*
-
-Member 2's bio goes here.
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex-basis: 48%;">
-        <img src="/images/mstile-144x144.png" width="144" height="144" alt="Image 1">
-        <p style="text-align: center;">Figure 1: Caption for Image 1</p>
-    </div>
-    <div style="flex-basis: 48%;">
-        <img src="/images/mstile-144x144.png" width="144" height="144" alt="Image 2">
-        <p style="text-align: center;">Figure 2: Caption for Image 2</p>
-    </div>
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>Song Jin</p>
+    <p>(2023~)</p>
+  </div>
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>Yang Xiu</p>
+    <p>(2023~)</p>
+  </div>
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>Peichen Xie</p>
+    <p>(2022~)</p>
+  </div>
 </div>
 
+- **BSc students**
 
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>Xirui Shui</p>
+    <p>(2023~)</p>
+  </div>
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>Xianyi Wei</p>
+    <p>(2023~)</p>
+  </div>
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>Hongyu Lu</p>
+    <p>(2023~)</p>
+  </div>
+</div>
 
-|:-:|:-:|
-|![First Image](/images/mstile-144x144.png)|![Second Image](/images/mstile-144x144.png)|
-|First Image|Second Image|
-
-
-<center>
-	<img src="/images/mstile-144x144.png" width="144" height="144"  />
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<img src="/images/mstile-144x144.png" width="144" height="144"  />
-	<br/>
-	<font color="AAAAAA">Student 1</font>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<font color="AAAAAA">Student 2</font>
-</center>
-<br/>
-
-
-
+- **Visiting students**
+  <div style="display: flex; justify-content: space-around;">
+  <div>
+    <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
+    <p>Yuanhua Yang</p>
+    <p>(2023.6~2024.6)</p>
+  </div> 
+</div>
 
 <div align="center">
 	<img src="/images/mstile-144x144.png"/>
@@ -102,21 +101,17 @@ Member 2's bio goes here.
 
 </p>
 
-    
-- PhD students
-  - Changshi Li (2023~)
-  - Chen Zhao (2022~)
-- MSc students
+
+
   - Song Jin (2023~)
   - Yang Xiu (2023~)
   - Peichen Xie (2022~)
-- BSc students
+
   - Xirui Shui (2023~)
   - Xianyi Wei (2023~)
   - Xuan Xiao (2023~)
   - Hongyu Lu (2023~)
-- Visiting students
-  - Yuanhua Yang (2023.6-2024.6)
+
  
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="/images/mstile-144x144.png"  width="144" height="144" ></div>
 
