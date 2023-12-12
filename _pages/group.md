@@ -32,6 +32,17 @@ Current Group Members:
 
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="/images/mstile-144x144.png" width="200" height="260" ></div>
 
+<div class="polaroid rotate_left">
+	<img src="/images/mstile-144x144.png" alt="郁金香" width="284" height="213" />
+	<p class="caption">上海鲜花港的郁金香，花名：Ballade Dream。</p>
+</div>
+<div class="polaroid rotate_right">
+	<img src="/images/mstile-144x144.png" alt="世博中国馆" width="284" height="213" />
+	<p class="caption">2010年上海世博会，中国馆。</p>
+</div>
+
+
+
 Graduated students:
 =====
 - Yonghong Ye, Thesis Title: Memory access strategies optimization for graph algorithms on GPU, June 2023
