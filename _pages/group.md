@@ -13,12 +13,15 @@ I am currently recruiting **self-motivated and dedicated** Ph.D/M.S. students wi
 
 Current Group Members:
 =====
-- Chen Zhao, PhD student (2022~)
-- Changshi Li, PhD student (2023~)
-- Peichen Xie, MSc student (2022~)
-- Song Jin, MSc student (2023~)
-- Yang Xiu, MSc student (2023~)
-- Yuanhua Yang, Visting student (2023.6-2024.6)
+- PhD students
+  - Changshi Li (2023~)
+  - Chen Zhao (2022~)
+- MSc students
+  - Song Jin (2023~)
+  - Yang Xiu (2023~)
+  - Peichen Xie (2022~)
+- Visting students
+  - Yuanhua Yang (2023.6-2024.6)
 
 Graduated students:
 =====
