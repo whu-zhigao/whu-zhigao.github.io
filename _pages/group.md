@@ -78,7 +78,8 @@ Current Group Members:
   </div> 
 </div>
 
-
+<div style='display: none'>
+	
 - PhD students
  - Changshi Li (2023~)
  - Chen Zhao (2022~)
@@ -94,7 +95,9 @@ Current Group Members:
 - Visiting students
  - Yuanhua Yang (2023.6-2024.6)
 
+</div>
 
+<div style='display: none'>
 
 <div align="center">
 	<img src="/images/mstile-144x144.png"/>
@@ -147,7 +150,7 @@ Current Group Members:
 	<p class="caption">2010年上海世博会，中国馆。</p>
 </div>
 
-
+</div>
 
 Graduated students:
 =====
