@@ -21,7 +21,7 @@ redirect_from:
 - **2023-6-29**: Our proposal "Graph Learning based Multi-source Heterogeneous Aerospace Big Data Fusion" is funded by the [Knowledge Innovation Program of Wuhan - Basic Research](https://kjj.wuhan.gov.cn/zwgk_8/fdzdnrgk/sjczzxzj/gsgg/202306/t20230629_2223886.html).
 - **2023-6-21**: I will serve as a PC at [TheWebConf 2024](https://www2024.thewebconf.org/).
 - **2023-4-10**: Our proposal "Intelligent Graph Processing on Heterogeneous Architecture" is found by [Key Research and Development Program of Hubei Province](https://kjt.hubei.gov.cn/kjdt/tzgg/202304/t20230410_4618307.shtml).
-- **2022-12-5**: Our proposal "Aerospace Big Data Processing Techniques on New Architectures" is funded by the Natural Science Foundation of Hubei Province (HB-NSF).
+- **2022-12-5**: Our proposal, "Aerospace Big Data Processing Techniques on New Architectures", is funded by the Natural Science Foundation of Hubei Province (HB-NSF).
 - **2022-12-2**: A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/).
 - **2022-10-8**: I will serve as a PC at [TheWebConf 2023](https://www2023.thewebconf.org/).
 - **2022-4-14**: I received research funding from [Hieco](https://www.hieco.com.cn/).
