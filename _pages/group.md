@@ -78,6 +78,24 @@ Current Group Members:
   </div> 
 </div>
 
+
+- PhD students
+ - Changshi Li (2023~)
+ - Chen Zhao (2022~)
+- MSc students
+ - Song Jin (2023~)
+ - Yang Xiu (2023~)
+ - Peichen Xie (2022~)
+- BSc students
+ - Xirui Shui (2023~)
+ - Xianyi Wei (2023~)
+ - Xuan Xiao (2023~)
+ - Hongyu Lu (2023~)
+- Visiting students
+ - Yuanhua Yang (2023.6-2024.6)
+
+
+
 <div align="center">
 	<img src="/images/mstile-144x144.png"/>
     <div align="center">
