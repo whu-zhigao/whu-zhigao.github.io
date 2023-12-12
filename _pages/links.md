@@ -18,9 +18,9 @@ redirect_from:
 
   - HOWTO: [Be a Good Graduate Student by Marie desJardins](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/acm_gradschool2.htm)
   - HOWTO: [write a good system paper](https://www.usenix.org/legacy/event/samples/submit/advice.html).
-  - HOWTO: Send and reply to email: [http://matt.might.net/articles/how-to-email/](http://matt.might.net/articles/how-to-email/). See other
-articles from [http://matt.might.net/articles/](http://matt.might.net/articles/).
-  - HOWTO: [Be a Successful PhD Student (in Computer Science (in NLP/ML))](http://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf).
+  - HOWTO: [Send and reply to email](http://matt.might.net/articles/how-to-email/). See [other
+articles](http://matt.might.net/articles/).
+  - HOWTO: [Be a Successful Ph.D. Student (in Computer Science (in NLP/ML))](http://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf).
   - [Dijkstra's Rules for Successful Scientific Research](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD637.html)
   - [Essays about Computer Science by Douglas E. Comer](http://duda.imag.fr/Comer/research.html)
   - Advice on [outlines and paper-writing from George Whitesides](http://www.ee.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf) (highest h-index of any living chemist).
