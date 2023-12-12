@@ -17,9 +17,7 @@ redirect_from:
 [**More News**](https://whu-zhigao.github.io/news/)
 
 <div style='display: none'>
-哈哈我是注释，不会在浏览器中显示。
-
-
+以下是过往新闻，不在此处显示
 
 - **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) got the [Outstanding Scientific and Technological Paper Award of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f).
 - **2023-8-5**: A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
