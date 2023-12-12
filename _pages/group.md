@@ -71,7 +71,7 @@ Current Group Members:
 
 - **Visiting students**
   <div style="display: flex; justify-content: space-around;">
-  <div>
+  <div style="text-align: center;">
     <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
     <p>Yuanhua Yang</p>
     <p>(2023.6~2024.6)</p>
