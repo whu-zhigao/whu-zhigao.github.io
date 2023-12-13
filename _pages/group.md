@@ -16,6 +16,50 @@ Current Group Members:
 
 - **PhD students**
 
+- <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M Logos</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .logos {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+      padding: 20px;
+    }
+    .logo {
+      width: 150px;
+      height: 150px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      text-align: center;
+      padding: 10px;
+    }
+    .logo img {
+      width: 100%;
+      height: 100%;
+    }
+    .logo h3 {
+      margin: 0;
+      padding: 0;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .logo p {
+      margin: 0;
+      padding: 0;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
 <div style="display: flex; justify-content: flex-start;">
   <div style="text-align: center; margin-left: 30px;">
     <img src="/images/mstile-144x144.png" alt="图片描述" style="border-radius: 50%;">
