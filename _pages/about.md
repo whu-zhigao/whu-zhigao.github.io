@@ -44,6 +44,9 @@ Current Projects
 - Key Research and Development Program of Hubei Province under Grant 2023BAB078
 - Knowledge Innovation Program of Wuhan - Basic Research under Grant 2023010201010063
 - Fundamental Research Funds for the Central Universities under Grant 2042023kf0135
+- Hubei Luojia Laboratory project under grant 230100012
+- Open Research Fund of Hubei Key Laboratory of Computational Science, Wuhan University
+- Open Research Fund of State Key Laboratory of Public Big Data under Grant PBD2023-29
 - China Postdoctoral Science Foundation under Grant 2022M722459
 - Natural Science Foundation of Hubei Province under Grant 2022CFB795
 
