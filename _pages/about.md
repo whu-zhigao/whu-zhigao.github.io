@@ -11,7 +11,7 @@ redirect_from:
 - **2023-12-4**: Our special section proposal, "[Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf)," was accepted by IEEE Transactions on Consumer Electronics.
 - **2023-11-23**: One of our works, "Path Merging Based Betweenness Centrality Algorithm on GPU," was accepted by [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <!-- The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).-->
 - **2023-11-15**: My Ph.D. thesis was selected as [IEEE TCSC Outstanding Ph.D. Dissertation Award](http://www.ieee-tcsc.org/thesis.php), 2023. Only five winners from worldwide!
-- **2023-9-21**: Our proposal, "Graph-Centric Multi-Source Big Data Processing Methods and Techniques," is funded by the NSFC Program.
+- **2023-9-21**: Our proposal, "Graph-Centric Multi-Source Big Data Processing Methods and Techniques", is funded by the NSFC Program.
 - **2023-9-16**: I was elected as one of the executive committee members of the Technical Committee on Embedded Systems of CCF.
 
 [**More News**](https://whu-zhigao.github.io/news/)
@@ -36,7 +36,7 @@ redirect_from:
 
 Short Bio
 ======
-Zhigao Zheng is with Wuhan University. He got a Ph.D. degree from Huazhong University of Science and Technology and a master's degree from Peking University. His current research interests focus on cloud computing, big data processing, and AI systems. He published more than 20 peer-reviewed publications (such as the IEEE Transactions on Parallel and Distributed Systems, and IEEE Transactions on Computers). He joins research projects from various governmental and industrial organizations, such as the National Science Foundation of China (NSFC), the Ministry of Science and Technology, and the Ministry of Education.
+Zhigao Zheng is with Wuhan University. His current research interests focus on cloud computing, big data processing, and AI systems. He published more than 20 peer-reviewed publications (such as the IEEE Transactions on Parallel and Distributed Systems, and IEEE Transactions on Computers). He joins research projects from various governmental and industrial organizations, such as the National Science Foundation of China (NSFC), the Ministry of Science and Technology, and the Ministry of Education.
 
 Current Projects
 ======
