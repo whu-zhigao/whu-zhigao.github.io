@@ -62,7 +62,7 @@ Current Group Members:
     <p style="margin-top: 0;">(2023~)</p>
   </div>
   <div style="text-align: center; margin-left: 30px;">
-    <img src="/images/team2023luhongyu.jpg" alt="图片描述" style="border-radius: 50%;">
+    <img src="/images/team2023/luhongyu.jpg" alt="图片描述" style="border-radius: 50%;">
     <p style="margin-bottom: 0;">Hongyu Lu</p>
     <p style="margin-top: 0;">(2023~)</p>
   </div>
