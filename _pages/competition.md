@@ -14,6 +14,7 @@ I am currently recruiting **self-motivated and dedicated** students, with solid 
 Competition Teams:
 =====
 - 2024 ISC:
+  - 
   <!-- ![team1](/images/competition/liuqi_isc.jpg width="400px") -->
   <br>
   <img src="/images/competition/liuqi_isc.jpg" width="400" alt="ISC Team 1">
