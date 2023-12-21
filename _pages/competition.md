@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently recruiting **self-motivated and dedicated** students, with solid background in systems, mathematics, etc., to participate in the Student Cluster Competition (including SCC, ASC and ISC). If you are interested, come and talk to me, drop me a message, or follow our team on Twitter (X) [@TeamWHU](https://twitter.com/TeamWHU).
+I am currently recruiting **self-motivated and dedicated** students, with solid background in systems, mathematics, etc., to participate in the Student Cluster Competition (including SCC, ASC and ISC). If you are interested, come and talk to me, drop me a message, or follow our team on Twitter (X) @[TeamWHU](https://twitter.com/TeamWHU).
 
 Competition Teams:
 =====
