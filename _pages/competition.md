@@ -17,11 +17,11 @@ Competition Teams:
   - 
   <!-- ![team1](/images/competition/liuqi_isc.jpg width="400px") -->
   <br>
-  <img src="/images/competition/liuqi_isc.jpg" width="400" alt="ISC Team 1">
+  <img src="/images/competition/liuqi_isc.jpg" width="400" alt="ISC Team 1" style="margin-bottom: 0;">
   <br>
   - Team 1: Qi Liu (Team Leader), Jiarui Chen, Ziang Tian, Xiaobo Zhang, and Shixiang Luo
   <br>
-  <img src="/images/competition/weixianyi_isc.jpg" width="400" alt="ISC Team 2">
+  <img src="/images/competition/weixianyi_isc.jpg" width="400" alt="ISC Team 2" style="margin-bottom: 0;">
   <br>
   - Team 2: Xianyi Wei (Team Leader), Zhongwei Xie, Haihang Zou, Hang Qiu, and Xirui Shui
   - Team 3: Yibang Wang (Team Leader), Jinyu Chen, Ziyuan Wei, Ziang Mao, and Haixiang Ni
