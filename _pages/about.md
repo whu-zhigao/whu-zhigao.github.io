@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **2024-1-21**: Our special section proposal, "Graph-Powered Intelligent Computing for the Internet of Everything," was accepted by IEEE Internet of Things Journal (**IF: 10.6**).
 - **2023-12-4**: Our special section proposal, "[Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf)," was accepted by IEEE Transactions on Consumer Electronics.
 - **2023-11-23**: One of our works, "Path Merging Based Betweenness Centrality Algorithm on GPU," was selected as the 2023 BenchCouncil Chips Achievement, and it will be presented at [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <!-- The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).-->
 - **2023-11-15**: My Ph.D. thesis was selected as [IEEE TCSC Outstanding Ph.D. Dissertation Award](http://www.ieee-tcsc.org/thesis.php), 2023. Only five winners from worldwide!
