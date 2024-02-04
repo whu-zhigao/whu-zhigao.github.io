@@ -9,6 +9,7 @@ redirect_from:
 
 2023
 =====
+- Cheng Dai, Ying Zhang, **Zhigao Zheng***. A Nonlocal Similarity Learning-Based Tensor Completion Model With Its Application in Intelligent Transportation System, IEEE Transactions on Intelligent Transportation Systems, 2023, 1-12, Early Access, doi: 10.1109/TITS.2023.3308938.
 -	Dong Zhao, Guojia Wan, Yibing Zhan, Zengmao Wang, Liang Ding, **Zhigao Zheng**, Bo Du. KE-X: Towards subgraph explanations of knowledge graph embedding based on knowledge information gain. Knowledge-Based Systems, 2023, 7,25, 110772 (IF: 8.8)
 - Guojia Wan, Zhengyun Zhou, **Zhigao Zheng**, Bo Du. Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion. Future Generation Computer Systems, 2023(148): 240-249. (IF: 7.5)
 - **Zhigao Zheng**, Bo Du, Chen Zhao, Peichen Xie. Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks, IEEE Journal on Selected Areas in Communications, 2023, 41(10): 3133 - 3145. (IF: 16.4, **CCF A**)
