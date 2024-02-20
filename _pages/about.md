@@ -64,6 +64,8 @@ Recent Professional Services
 
 **Journal Editorial Experience**
 
+- [IEEE Internet of Things Journal](https://ieee-iotj.org/) (Guest Editor From 2024.2)
+  -  Leading Guest Editor of the Special Issue: [Graph-Powered Intelligent Computing for the Internet of Everything](https://ieee-iotj.org/wp-content/uploads/2024/02/Graph_Powered_Computing.pdf) 
 - [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) (Associate Editor From 2023)
   - Leading Guest Editor of the Special Section: [Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf), 2023-2024
   - Leading Guest Editor of the Special Section: [Graph-powered Intelligent Data Processing for Consumer Electronics](https://ctsoc.ieee.org/images/TCE_FILES/TCE_SS_CFP_Special_Section_on_Graph-powered_Intelligent_Data_Processing_for_Consumer_final.pdf), 2022-2023
