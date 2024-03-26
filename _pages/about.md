@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **2024-3-26**: I was servserved as aber of IEEE Globecom 2024.
 - **2024-1-21**: Our special issue proposal, "[Graph-Powered Intelligent Computing for the Internet of Everything](https://ieee-iotj.org/wp-content/uploads/2024/02/Graph_Powered_Computing.pdf)," was accepted by IEEE Internet of Things Journal (**IF: 10.6**).
 - **2023-12-4**: Our special section proposal, "[Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf)," was accepted by IEEE Transactions on Consumer Electronics.
 - **2023-11-23**: One of our works, "Path Merging Based Betweenness Centrality Algorithm on GPU," was selected as the 2023 BenchCouncil Chips Achievement, and it will be presented at [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <!-- The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).-->
@@ -76,6 +77,7 @@ Recent Professional Services
 - CPSCom 2023 (Program Vice-Chair) 
 
 **Program Committee (last five years)**
+- IEEE Globecom 2024
 - TheWebConf (WWW) 2023, 2024
 - NeurIPS 2023
 - SEKE 2016, 2017, 2018, 2019
