@@ -8,7 +8,7 @@ redirect_from:
 ---
 2024
 =====
-
+- Qiang Huang, xin wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, Yongjun He, Quanqing Xu, Yang Zhao, **Zhigao Zheng**, Jiawei Jiang. BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks. In Proceedings of the International Conference on Data Engineering (ICDE' 24), Utrecht Netherlands, 13-17 May, 2024. 
 - Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, **Zhigao Zheng**, Ziyi Zhang, Yingxia Shao, Ce Zhang. How good are machine learning clouds? Benchmarking two snapshots over 5 years. The VLDB Journal (2024). https://doi.org/10.1007/s00778-024-00842-3
 
 2023
