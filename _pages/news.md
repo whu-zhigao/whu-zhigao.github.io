@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- **2024-4-8**: Our teams ASC667 and ASC604 got the Second Prize in the [2024 Student Supercomputer Challenge](http://www.asc-events.org/StudentChallenge/index.html).
+- **2024-4-8**: Our teams ASC667 and ASC604 got the Second Prize in the [2024 ASC Student Supercomputer Challenge](http://www.asc-events.org/StudentChallenge/index.html).
 - **2024-3-26**: I served as a TPC member of Globecom 2024.
 - **2024-1-21**: Our special issue proposal, "[Graph-Powered Intelligent Computing for the Internet of Everything](https://ieee-iotj.org/wp-content/uploads/2024/02/Graph_Powered_Computing.pdf)," was accepted by IEEE Internet of Things Journal (**IF: 10.6**).
 - **2023-12-4**: Our special section proposal, "[Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf)," was accepted by IEEE Transactions on Consumer Electronics.
