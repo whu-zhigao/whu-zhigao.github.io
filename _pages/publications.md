@@ -10,7 +10,7 @@ redirect_from:
 =====
 - Qiang Huang, Xin wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, Yongjun He, Quanqing Xu, Yang Zhao, **Zhigao Zheng**, Jiawei Jiang. BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks. In Proceedings of the International Conference on Data Engineering (ICDE' 24), Utrecht Netherlands, 13-17 May, 2024. (**CCF A**)
 - Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, **Zhigao Zheng**, Ziyi Zhang, Yingxia Shao, Ce Zhang. How good are machine learning clouds? Benchmarking two snapshots over 5 years. The VLDB Journal, 2024 (33):833-857.
-- Cheng Dai, Ying Zhang, **Zhigao Zheng***. A Nonlocal Similarity Learning-Based Tensor Completion Model With Its Application in Intelligent Transportation System, IEEE Transactions on Intelligent Transportation Systems, 2024, vol 25, issue 3: 3140-3151. (IF: 8.5)
+- Cheng Dai, Ying Zhang, **Zhigao Zheng***. A Nonlocal Similarity Learning-Based Tensor Completion Model With Its Application in Intelligent Transportation System, IEEE Transactions on Intelligent Transportation Systems, 2024, 25(3): 3140-3151. (IF: 8.5)
 
 2023
 =====
