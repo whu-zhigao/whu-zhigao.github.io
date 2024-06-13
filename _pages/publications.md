@@ -8,6 +8,7 @@ redirect_from:
 ---
 2024
 =====
+- Suixue Wang, Zhigao Zheng, Xinghong Wang, Qingchen Zhang, Zhuo Liu. A Cloud-edge Collaboration Framework for Cancer Survival Prediction to Develop Medical Consumer Electronic Devices. IEEE Transactions on Consumer Electronics, 2024
 - Tianyu Tu, Zhili He, **Zhigao Zheng***, Zimu Zheng, Jiawei Jiang, Yili Gong, Chuang Hu, Dazhao Cheng. Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT. IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3396282. (IF: 10.6)
 - Qiang Huang, Xin wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, Yongjun He, Quanqing Xu, Yang Zhao, **Zhigao Zheng**, Jiawei Jiang. BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks. In Proceedings of the International Conference on Data Engineering (ICDE' 24), Utrecht Netherlands, 13-17 May, 2024. (**CCF A**)
 - Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, **Zhigao Zheng**, Ziyi Zhang, Yingxia Shao, Ce Zhang. How good are machine learning clouds? Benchmarking two snapshots over 5 years. The VLDB Journal, 2024 (33):833-857.
