@@ -79,6 +79,7 @@ Recent Professional Services
 - CPSCom 2023 (Program Vice-Chair) 
 
 **Program Committee (last five years)**
+- WISE 2024
 - IEEE Globecom 2024
 - TheWebConf (WWW) 2023, 2024
 - NeurIPS 2023
