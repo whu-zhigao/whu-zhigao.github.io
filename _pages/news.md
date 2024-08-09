@@ -19,7 +19,7 @@ redirect_from:
 - **2023-11-15**: My Ph.D. thesis was selected as [IEEE TCSC Outstanding Ph.D. Dissertation Award](http://www.ieee-tcsc.org/thesis.php), 2023. Only five winners from worldwide!
 - **2023-9-21**: Our proposal, "Graph-Centric Multi-Source Big Data Processing Methods and Techniques", is funded by the NSFC Program.
 - **2023-9-16**: I was elected as one of the executive committee members of the Technical Committee on Embedded Systems of CCF.
-- **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) got the [Outstanding Scientific and Technological Paper Award of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f).
+- **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) was selected as the [Outstanding Scientific and Technological Paper of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f).
 - **2023-8-5**: A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
 ](https://ieeexplore.ieee.org/document/10269062).
 - **2023-8-4**: I was elected as one of the executive committee members of the Technical Committee on Distributed Computing and Systems of CCF.
