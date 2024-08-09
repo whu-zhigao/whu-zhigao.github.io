@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - **2024-7-30**: My Ph.D. thesis was selected as [Outstanding Ph.D. Dissertation Award of Embedded Systems of CCF](https://mp.weixin.qq.com/s/_ak4tL8ibKBGG0lJZzO9LA), 2024. 
-- **2024-6-11**: A research paper accepted at ICPP' 24: "SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition".
+- **2024-6-11**: A research paper accepted at ICPP' 24: "[SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition](https://dl.acm.org/doi/10.1145/3673038.3673111)".
 - **2024-4-8**: Our teams ASC667 and ASC604 got the Second Prize in the [2024 ASC Student Supercomputer Challenge](http://www.asc-events.org/StudentChallenge/index.html).
 - **2024-3-26**: I served as a TPC member of Globecom 2024.
 - **2024-1-21**: Our special issue proposal, "[Graph-Powered Intelligent Computing for the Internet of Everything](https://ieee-iotj.org/wp-content/uploads/2024/02/Graph_Powered_Computing.pdf)," was accepted by IEEE Internet of Things Journal (**IF: 10.6**).
