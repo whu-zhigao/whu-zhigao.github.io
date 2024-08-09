@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 - **2024-7-30**: My Ph.D. thesis was selected as [Outstanding Ph.D. Dissertation Award of Embedded Systems of CCF](https://mp.weixin.qq.com/s/_ak4tL8ibKBGG0lJZzO9LA), 2024.
-- **2022-7-8**: I received research funding from [Hieco](https://www.hieco.com.cn/).
+- **2024-7-8**: One of my works was founded by [Hieco](https://www.hieco.com.cn/).
 - **2024-6-11**: A research paper accepted at ICPP' 24: "[SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition](https://dl.acm.org/doi/10.1145/3673038.3673111)".
 - **2024-4-8**: Our teams ASC667 and ASC604 got the Second Prize in the [2024 ASC Student Supercomputer Challenge](http://www.asc-events.org/StudentChallenge/index.html).
 - **2024-3-26**: I served as a TPC member of Globecom 2024.
@@ -31,5 +31,5 @@ redirect_from:
 - **2022-12-5**: Our proposal, "Aerospace Big Data Processing Techniques on New Architectures", is funded by the Natural Science Foundation of Hubei Province (HB-NSF).
 - **2022-12-2**: A research paper accepted at INFOCOM'23: [Galliot: Path Merging Based Betweenness Centrality Algorithm on GPU](https://ieeexplore.ieee.org/document/10229018/).
 - **2022-10-8**: I will serve as a PC at [TheWebConf 2023](https://www2023.thewebconf.org/).
-- **2022-4-14**: I received research funding from [Hieco](https://www.hieco.com.cn/).
+- **2022-4-14**: One of my works was founded by [Hieco](https://www.hieco.com.cn/).
 
