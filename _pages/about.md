@@ -24,7 +24,7 @@ redirect_from:
 <div style='display: none'>
 以下是过往新闻，不在此处显示
 
-- **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) got the [Outstanding Scientific and Technological Paper Award of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f).
+- **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) was selected as the [Outstanding Scientific and Technological Paper of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f).
 - **2023-8-5**: A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
 ](https://ieeexplore.ieee.org/document/10269062).
 - **2023-8-4**: I was elected as one of the executive committee members of the Technical Committee on Distributed Computing and Systems of CCF.
