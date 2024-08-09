@@ -58,7 +58,7 @@ Current Projects
 Awards
 ======
 
-- The [Feluca](https://ieeexplore.ieee.org/document/9162529) paper received the [Outstanding Scientific and Technological Paper Award from Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f)
+- The [Feluca](https://ieeexplore.ieee.org/document/9162529) paper was selected as the [Outstanding Scientific and Technological Paper of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f)
 - [IEEE TCSC Outstanding Ph.D. Dissertation Award](http://www.ieee-tcsc.org/thesis.php), 2023
 - 2023 BenchCouncil Chips Achievement, "Path Merging Based Betweenness Centrality Algorithm on GPU"
 - IEEE Outstanding Leadership Award for serving as the Program Vice-Chair of the 16th IEEE International Conference on Cyber, Physical and Social Computing (CPSCom 2023)
