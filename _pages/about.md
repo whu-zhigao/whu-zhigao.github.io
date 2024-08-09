@@ -58,6 +58,7 @@ Current Projects
 Awards
 ======
 
+- [Outstanding Ph.D. Dissertation Award of Embedded Systems of CCF](https://mp.weixin.qq.com/s/_ak4tL8ibKBGG0lJZzO9LA), 2024
 - The [Feluca](https://ieeexplore.ieee.org/document/9162529) paper was selected as the [Outstanding Scientific and Technological Paper of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f)
 - [IEEE TCSC Outstanding Ph.D. Dissertation Award](http://www.ieee-tcsc.org/thesis.php), 2023
 - 2023 BenchCouncil Chips Achievement, "Path Merging Based Betweenness Centrality Algorithm on GPU"
