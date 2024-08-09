@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-- **2024-6-11**: A research paper accepted at ICPP' 24: "SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition".
+- **2024-7-30**: My Ph.D. thesis was selected as [Outstanding Ph.D. Dissertation Award of Embedded Systems of CCF](https://mp.weixin.qq.com/s/_ak4tL8ibKBGG0lJZzO9LA), 2024. 
+- **2024-6-11**: A research paper accepted at ICPP' 24: "[SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition](https://dl.acm.org/doi/10.1145/3673038.3673111)".
 - **2024-4-8**: Our teams ASC667 and ASC604 got the Second Prize in the [2024 ASC Student Supercomputer Challenge](http://www.asc-events.org/StudentChallenge/index.html).
 - **2024-3-26**: I served as a TPC member of Globecom 2024.
 - **2024-1-21**: Our special issue proposal, "[Graph-Powered Intelligent Computing for the Internet of Everything](https://ieee-iotj.org/wp-content/uploads/2024/02/Graph_Powered_Computing.pdf)," was accepted by IEEE Internet of Things Journal (**IF: 10.6**).
 - **2023-12-4**: Our special section proposal, "[Cloud-edge Collaboration for Consumer Electronics](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf)," was accepted by IEEE Transactions on Consumer Electronics.
 - **2023-11-23**: One of our works, "Path Merging Based Betweenness Centrality Algorithm on GPU," was selected as the 2023 BenchCouncil Chips Achievement, and it will be presented at [FICC 2023](https://www.benchcouncil.org/ficc2023/index.html). <!-- The work will be presented on Chips 2023 and compete for the BenchCouncil TOP100 Achievements ranking list (Chip100).-->
 - **2023-11-15**: My Ph.D. thesis was selected as [IEEE TCSC Outstanding Ph.D. Dissertation Award](http://www.ieee-tcsc.org/thesis.php), 2023. Only five winners from worldwide!
-- **2023-9-21**: Our proposal, "Graph-Centric Multi-Source Big Data Processing Methods and Techniques," is funded by the NSFC Program.
+- **2023-9-21**: Our proposal, "Graph-Centric Multi-Source Big Data Processing Methods and Techniques", is funded by the NSFC Program.
 - **2023-9-16**: I was elected as one of the executive committee members of the Technical Committee on Embedded Systems of CCF.
 - **2023-9-12**: One of our paper [Feluca](https://ieeexplore.ieee.org/document/9162529) got the [Outstanding Scientific and Technological Paper Award of Hubei Province](http://www.hbkx.org.cn/news/info?newsid=70283644c11e4bd78ef83e9949d57c2f).
 - **2023-8-5**: A research paper accepted at JSAC: [Path Merging Based Betweenness Centrality Algorithm in Delay Tolerant Networks
