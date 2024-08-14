@@ -85,7 +85,7 @@ Recent Professional Services
 **Program Committee (last five years)**
 - WISE 2024
 - IEEE Globecom 2024
-- TheWebConf (WWW) 2023, 2024
+- TheWebConf (WWW) 2023, 2024, 2025
 - NeurIPS 2023
 - SEKE 2016, 2017, 2018, 2019
 
