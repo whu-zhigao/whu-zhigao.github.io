@@ -41,6 +41,7 @@ redirect_from:
 
 2019
 =====
+- 华强胜, **郑志高**, 胡振宇, 钟芷漫, 林昌富, 赵峰, 金海, 石宣化. 大数据基础理论与系统关键技术浅析[J]. 数据与计算发展前沿, 2019, 1(1): 22-34.
 -	Tao Wang, **Zhigao Zheng** *, Mubashir Husain Rehmani, Shihong Yao, Zheng Huo. Privacy Preservation in Big Data from the Communication Perspective - A Survey. IEEE Communications Surveys & Tutorials (CSTU). 2019, 21(1): 753-778. (**IF: 35.6**)
 -	Tao Wang, **Zhigao Zheng** *, Yun Lin, Shihong Yao, Xiao Xie. Reliable and Robust Unmanned Aerial Vehicle Wireless Video Transmission. IEEE Transactions on Reliability. 2019, 68(3): 1050-1060. (IF: 5.9)
 - Tao Wang, **Zhigao Zheng**, Mohamed Elhoseny. Equivalent mechanism: Releasing location data with errors through differential privacy. Future Generation Computer Systems. 2019, 98: 600-608. (IF: 7.5)
