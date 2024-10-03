@@ -84,7 +84,7 @@ Recent Professional Services
 **Conference Organization Committee**
 - CPSCom 2023 (Program Vice-Chair) 
 
-**Program Committee (last five years)**
+**Program Committee**
 - WISE 2024
 - IEEE Globecom 2024
 - TheWebConf (WWW) 2023, 2024, 2025
