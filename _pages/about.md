@@ -47,11 +47,11 @@ Zhigao Zheng is with Wuhan University. He is the executive committee member of t
 
 Current Projects
 ======
-- Hieco Project under Grant ghfund202202017603 and ghfund202407047683
 - National Natural Science Foundation of China under Grant 62372333
-- Key Research and Development Program of Hubei Province under Grant 2023BAB078
+- Key Research and Development Program of Hubei Province under Grant 2024BAB044 and 2023BAB078
 - Knowledge Innovation Program of Wuhan - Basic Research under Grant 2023010201010063
 - Fundamental Research Funds for the Central Universities under Grant 2042023kf0135
+- Hieco Project under Grant ghfund202202017603 and ghfund202407047683
 - Hubei Luojia Laboratory project under Grant 230100012
 - Open Research Fund of Hubei Key Laboratory of Computational Science, Wuhan University
 - Open Research Fund of State Key Laboratory of Public Big Data under Grant PBD2023-29
