@@ -32,6 +32,16 @@ Current Group Members:
 
 <div style="display: flex; justify-content: flex-start;">
   <div style="text-align: center; margin-left: 30px;">
+    <img src="/images/team2024/zhaojun.jpg" height="144" width="144" alt="图片描述" style="border-radius: 50%;">
+    <p style="margin-bottom: 0;">Jun Zhao</p>
+    <p style="margin-top: 0;">(2024~)</p>
+  </div>
+  <div style="text-align: center; margin-left: 30px;">
+    <img src="/images/team2024/yuchangning.jpg" height="144" width="144" alt="图片描述" style="border-radius: 50%;">
+    <p style="margin-bottom: 0;">Changning Yu</p>
+    <p style="margin-top: 0;">(2024~)</p>
+  </div>
+  <div style="text-align: center; margin-left: 30px;">
     <img src="/images/team2023/jinsong.jpg" height="144" width="144" alt="图片描述" style="border-radius: 50%;">
     <p style="margin-bottom: 0;">Song Jin</p>
     <p style="margin-top: 0;">(2023~)</p>
