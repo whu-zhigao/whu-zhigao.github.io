@@ -8,13 +8,14 @@ redirect_from:
 ---
 2024
 =====
-- Chuang Hu, Tianyu Tu, Yili Gong, Jiawei Jiang, Zhigao Zheng, Dazhao Cheng. Tackling Multiplayer Interaction for Federated Generative Adversarial Networks. IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 14017-14030, Dec. 2024, doi: 10.1109/TMC.2024.3438148.
-- Chen Zhao, Ting Yu, **Zhigao Zheng***, Yuanyuan Zhu, Song Jin, Bo Du, and Dacheng Tao. SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition. In The 53rd International Conference on Parallel Processing (ICPP ’24), August 12–15, 2024, Gotland, Sweden. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673038.3673111
-- Muhammad Faizan Khan, Guojun Wang, **Zhigao Zheng**, Xiangyong Liu, "Towards Hybrid Wi-Fi HaLow Radar CSI Coverage Estimation in Collapsed Structures," IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3416166.
+- **Zhigao Zheng**, Guojia Wan, Jiawei Jiang, Chuang Hu, Hao Liu, Shahid Mumtaz, Bo Du. Lock-free Triangle Counting on GPU. IEEE Transactions on Computers. (**CCF A**)
+- Chuang Hu, Tianyu Tu, Yili Gong, Jiawei Jiang, **Zhigao Zheng**, Dazhao Cheng. Tackling Multiplayer Interaction for Federated Generative Adversarial Networks. IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 14017-14030, Dec. 2024, doi: 10.1109/TMC.2024.3438148. (**CCF A**)
+- Chen Zhao, Ting Yu, **Zhigao Zheng***, Yuanyuan Zhu, Song Jin, Bo Du, and Dacheng Tao. SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition. In The 53rd International Conference on Parallel Processing (ICPP ’24), August 12–15, 2024, Gotland, Sweden. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673038.3673111 (**CCF B**)
+- Muhammad Faizan Khan, Guojun Wang, **Zhigao Zheng**, Xiangyong Liu. Towards Hybrid Wi-Fi HaLow Radar CSI Coverage Estimation in Collapsed Structures. IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3416166.
 - Suixue Wang, **Zhigao Zheng**, Xinghong Wang, Qingchen Zhang, Zhuo Liu. A Cloud-edge Collaboration Framework for Cancer Survival Prediction to Develop Medical Consumer Electronic Devices. IEEE Transactions on Consumer Electronics, 2024
 - Tianyu Tu, Zhili He, **Zhigao Zheng***, Zimu Zheng, Jiawei Jiang, Yili Gong, Chuang Hu, Dazhao Cheng. Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT. IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3396282. (IF: 10.6)
 - Qiang Huang, Xin wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, Yongjun He, Quanqing Xu, Yang Zhao, **Zhigao Zheng**, Jiawei Jiang. BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks. In Proceedings of the International Conference on Data Engineering (ICDE' 24), Utrecht Netherlands, 13-17 May, 2024. (**CCF A**)
-- Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, **Zhigao Zheng**, Ziyi Zhang, Yingxia Shao, Ce Zhang. How good are machine learning clouds? Benchmarking two snapshots over 5 years. The VLDB Journal, 2024 (33):833-857.
+- Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, **Zhigao Zheng**, Ziyi Zhang, Yingxia Shao, Ce Zhang. How good are machine learning clouds? Benchmarking two snapshots over 5 years. The VLDB Journal, 2024 (33):833-857. (**CCF A**)
 - Cheng Dai, Ying Zhang, **Zhigao Zheng***. A Nonlocal Similarity Learning-Based Tensor Completion Model With Its Application in Intelligent Transportation System, IEEE Transactions on Intelligent Transportation Systems, 2024, 25(3): 3140-3151. (IF: 8.5)
 
 2023
