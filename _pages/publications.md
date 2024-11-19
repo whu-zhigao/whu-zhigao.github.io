@@ -8,6 +8,7 @@ redirect_from:
 ---
 2024
 =====
+- Chuang Hu, Tianyu Tu, Yili Gong, Jiawei Jiang, Zhigao Zheng, Dazhao Cheng. Tackling Multiplayer Interaction for Federated Generative Adversarial Networks. IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 14017-14030, Dec. 2024, doi: 10.1109/TMC.2024.3438148.
 - Chen Zhao, Ting Yu, **Zhigao Zheng***, Yuanyuan Zhu, Song Jin, Bo Du, and Dacheng Tao. SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition. In The 53rd International Conference on Parallel Processing (ICPP ’24), August 12–15, 2024, Gotland, Sweden. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673038.3673111
 - Muhammad Faizan Khan, Guojun Wang, **Zhigao Zheng**, Xiangyong Liu, "Towards Hybrid Wi-Fi HaLow Radar CSI Coverage Estimation in Collapsed Structures," IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3416166.
 - Suixue Wang, **Zhigao Zheng**, Xinghong Wang, Qingchen Zhang, Zhuo Liu. A Cloud-edge Collaboration Framework for Cancer Survival Prediction to Develop Medical Consumer Electronic Devices. IEEE Transactions on Consumer Electronics, 2024
