@@ -77,7 +77,7 @@ Current Group Members:
     <p style="margin-top: 0;">(2023~)</p>
   </div>
 </div>
-
+<div style="display: flex; justify-content: flex-start;">
   <div style="text-align: center; margin-left: 30px;">
     <img src="/images/team2023/weipengfei.jpg" height="144" width="144" alt="图片描述" style="border-radius: 50%;">
     <p style="margin-bottom: 0;">Pengfei Wei</p>
