@@ -8,6 +8,8 @@ redirect_from:
 ---
 2025
 ====
+- Shihui Wang, Yulan Yang, Zixin Tan, **Zhigao Zheng**, Jiawei Jiang, Hao Huang, Quanqing Xu, Chuanhui Yang. GADACE: Graph Anomaly Detection Combining
+Attribute Contrast and Structure Reconstruction. In Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), Hyderabad, India. April 06 -- April 11, 2025.
 - Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, **Zhigao Zheng**, Shangdong Zhu, Chenggang Yan. SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI' 25).(**CCF A**)
 
 2024
