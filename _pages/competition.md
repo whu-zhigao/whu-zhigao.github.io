@@ -14,7 +14,7 @@ I am currently recruiting **self-motivated and dedicated** students, with solid 
 Competition Teams:
 =====
 
-- 2024 [Computer System Development Capability Competition (Priority Sesearch Application) 2024](https://os.educg.net/#/index?TYPE=PRA%20_2024).
+- 2024 [Computer System Development Capability Competition (Priority Sesearch Application)](https://os.educg.net/#/index?TYPE=PRA%20_2024).
 
 <div class="image-float">
   <img src="/images/competition/pra2024_1.jpeg" width="400" alt="PRA_1">
