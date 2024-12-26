@@ -13,8 +13,19 @@ I am currently recruiting **self-motivated and dedicated** students, with solid 
 
 Competition Teams:
 =====
+
+- 2024 [Computer System Development Capability Competition (Priority Sesearch Application) 2024](https://os.educg.net/#/index?TYPE=PRA%20_2024).
+
+  <!-- ![team1](/images/competition/pra2024_1.jpg width="400px") -->
+  <br>
+  <img src="/images/competition/pra2024_1.jpeg" width="400" alt="PRA_1" style="margin-bottom: 0;">
+  <br>
+  <br>
+  <img src="/images/competition/pra2024_2.jpeg" width="400" alt="PRA_2" style="margin-bottom: 0;">
+  <br>
+    
 - 2024 ASC:
-  - 
+   
   <!-- ![team1](/images/competition/liuqi_isc.jpg width="400px") -->
   <br>
   <img src="/images/competition/liuqi_isc.jpg" width="400" alt="ISC Team 1" style="margin-bottom: 0;">
