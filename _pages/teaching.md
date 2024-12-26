@@ -1,14 +1,11 @@
 ---
 permalink: /teaching/
-title: "Services"
+title: "Recent Professional Services"
 author_profile: true
 redirect_from: 
   - /md/
   - /teaching.html
 ---
-
-Recent Professional Services
-======
 
 **Journal Editorial Experience**
 
@@ -35,3 +32,6 @@ Recent Professional Services
 - IEEE Member
 - CCF Member
 
+Course
+======
+Below is the course information.
