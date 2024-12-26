@@ -22,7 +22,7 @@ Competition Teams:
 </div>
     
 - 2024 ASC:
-  - 
+  &nbsp;&nbsp;&nbsp;&nbsp; 
   <!-- ![team1](/images/competition/liuqi_isc.jpg width="400px") -->
   <br>
   <img src="/images/competition/liuqi_isc.jpg" width="400" alt="ISC Team 1" style="margin-bottom: 0;">
