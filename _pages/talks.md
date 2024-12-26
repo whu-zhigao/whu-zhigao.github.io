@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
+- **2024-12-22**, Ant T Space, Beijing. Give a talk at Ant/CCF, the talk title: High-Efficiency Large-scale Graph Processing on GPUs.
 - **2024-09-21**, Shenzhen, Guangzhou. Act as the Workshop Chair of "Embedded edge intelligence technology and applications（嵌入式边缘智能技术与应用）" on CCF ESTC 2024.
 - **2024-09-21**, Shenzhen, Guangzhou. Give a talk at CCF ESTC 2024, the talk title: Large-scale Graph Processing on GPUs.
 - **2024-06-29**, Zhengzhou, Henan. Act as the Roundtable Forum Guest at the Forum of Human-Machine-Things Intelligence Challenges and Future.
