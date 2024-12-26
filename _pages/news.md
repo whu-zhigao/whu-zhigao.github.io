@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+- **2024-12-13**: One of our papers, [Improving Forest Management Efficiency: A New Metric for loT Node Deployment](http://www.ieee-hust-ncc.org/2024/HPCC/bestpaper.html), was selected as the Outstanding Paper of IEEE HPCC.
+- **2024-09-26**: I was selected as the rising star of ACM-Wuhan.
 - **2024-7-30**: My Ph.D. thesis was selected as [Outstanding Ph.D. Dissertation Award of Embedded Systems of CCF](https://mp.weixin.qq.com/s/_ak4tL8ibKBGG0lJZzO9LA), 2024.
 - **2024-7-8**: One of my works was founded by [Hieco](https://www.hieco.com.cn/).
 - **2024-6-11**: A research paper accepted at ICPP' 24: "[SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition](https://dl.acm.org/doi/10.1145/3673038.3673111)".
