@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Services & Teaching"
 author_profile: true
 redirect_from: 
   - /md/
