@@ -24,7 +24,7 @@ Competition Teams:
 - 2024 ASC:
   <!-- ![team1](/images/competition/liuqi_isc.jpg width="400px") -->
   <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/competition/liuqi_isc.jpg" width="400" alt="ISC Team 1" style="margin-bottom: 0;">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/competition/liuqi_isc.jpg" width="400" alt="ISC Team 1" style="margin-bottom: 0;">
   <br>
   - Team 1: Qi Liu (Team Leader), Jiarui Chen, Ziang Tian, Xiaobo Zhang, and Shixiang Luo
   <br>
