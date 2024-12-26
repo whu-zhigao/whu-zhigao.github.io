@@ -34,4 +34,4 @@ redirect_from:
 
 Course
 ======
-Below is the course information.
+- Computer Organization and Architecture, 2025 Spring.
