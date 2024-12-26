@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-**Journal Editorial Experience**
+**Journal Editorial Services**
 
 - [IEEE Internet of Things Journal](https://ieee-iotj.org/) (Guest Editor from 2024.2)
   -  Leading Guest Editor of the Special Issue: Graph-Powered Intelligent Computing for the Internet of Everything, [CFP](https://ieee-iotj.org/wp-content/uploads/2024/02/Graph_Powered_Computing.pdf) 
