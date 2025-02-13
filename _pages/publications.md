@@ -11,10 +11,10 @@ redirect_from:
 - Shihui Wang, Yulan Yang, Zixin Tan, **Zhigao Zheng**, Jiawei Jiang, Hao Huang, Quanqing Xu, Chuanhui Yang. GADACE: Graph Anomaly Detection Combining
 Attribute Contrast and Structure Reconstruction. In Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), Hyderabad, India. April 06 - April 11, 2025.
 - Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, **Zhigao Zheng**, Shangdong Zhu, Chenggang Yan. SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI' 25), Pennsylvania, USA. February 25 – March 4, 2025.(**CCF A**)
+- **Zhigao Zheng**, Guojia Wan, Jiawei Jiang, Chuang Hu, Hao Liu, Shahid Mumtaz, Bo Du. Lock-free Triangle Counting on GPU. IEEE Transactions on Computers, 2025, 74(3): 1040-1052. (**CCF A**)
 
 2024
 =====
-- **Zhigao Zheng**, Guojia Wan, Jiawei Jiang, Chuang Hu, Hao Liu, Shahid Mumtaz, Bo Du. Lock-free Triangle Counting on GPU. IEEE Transactions on Computers, DOI: 10.1109/TC.2024.3504295. (**CCF A**)
 - Chuang Hu, Tianyu Tu, Yili Gong, Jiawei Jiang, **Zhigao Zheng**, Dazhao Cheng. Tackling Multiplayer Interaction for Federated Generative Adversarial Networks. IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 14017-14030, Dec. 2024, doi: 10.1109/TMC.2024.3438148. (**CCF A**)
 - Chen Zhao, Ting Yu, **Zhigao Zheng***, Yuanyuan Zhu, Song Jin, Bo Du, and Dacheng Tao. SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition. In The 53rd International Conference on Parallel Processing (ICPP ’24), August 12–15, 2024, Gotland, Sweden. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673038.3673111 (**CCF B**)
 - Muhammad Faizan Khan, Guojun Wang, **Zhigao Zheng**, Xiangyong Liu. Towards Hybrid Wi-Fi HaLow Radar CSI Coverage Estimation in Collapsed Structures. IEEE Transactions on Consumer Electronics, 2024, 70(3): 5201-5216.
