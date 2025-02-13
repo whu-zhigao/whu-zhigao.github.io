@@ -13,6 +13,7 @@ redirect_from:
 Attribute Contrast and Structure Reconstruction. In Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), Hyderabad, India. April 06 - April 11, 2025.
 - Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, **Zhigao Zheng**, Shangdong Zhu, Chenggang Yan. SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI' 25), Pennsylvania, USA. February 25 – March 4, 2025.(**CCF A**)
 - **Zhigao Zheng**, Guojia Wan, Jiawei Jiang, Chuang Hu, Hao Liu, Shahid Mumtaz, Bo Du. Lock-free Triangle Counting on GPU. IEEE Transactions on Computers, 2025, 74(3): 1040-1052. (**CCF A**)
+- Tianyu Tu, Zhili He, **Zhigao Zheng***, Zimu Zheng, Jiawei Jiang, Yili Gong, Chuang Hu, Dazhao Cheng. Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT. IEEE Internet of Things Journal, 2025, 12(4): 3441-3452. doi: 10.1109/JIOT.2024.3396282. (IF: 10.6)
 
 2024
 =====
@@ -20,7 +21,6 @@ Attribute Contrast and Structure Reconstruction. In Proceedings of the 2025 IEEE
 - Chen Zhao, Ting Yu, **Zhigao Zheng***, Yuanyuan Zhu, Song Jin, Bo Du, and Dacheng Tao. SpeedCore: Space-efficient and Dependency-aware GPU Parallel Framework for Core Decomposition. In The 53rd International Conference on Parallel Processing (ICPP ’24), August 12–15, 2024, Gotland, Sweden. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673038.3673111 (**CCF B**)
 - Muhammad Faizan Khan, Guojun Wang, **Zhigao Zheng**, Xiangyong Liu. Towards Hybrid Wi-Fi HaLow Radar CSI Coverage Estimation in Collapsed Structures. IEEE Transactions on Consumer Electronics, 2024, 70(3): 5201-5216.
 - Suixue Wang, **Zhigao Zheng**, Xinghong Wang, Qingchen Zhang, Zhuo Liu. A Cloud-edge Collaboration Framework for Cancer Survival Prediction to Develop Medical Consumer Electronic Devices. IEEE Transactions on Consumer Electronics, 2024, 70(3): 5251-5258.
-- Tianyu Tu, Zhili He, **Zhigao Zheng***, Zimu Zheng, Jiawei Jiang, Yili Gong, Chuang Hu, Dazhao Cheng. Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT. IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3396282. (IF: 10.6)
 - Qiang Huang, Xin wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, Yongjun He, Quanqing Xu, Yang Zhao, **Zhigao Zheng**, Jiawei Jiang. BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks. In Proceedings of the International Conference on Data Engineering (ICDE' 24), Utrecht Netherlands, 13-17 May, 2024. (**CCF A**)
 - Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, **Zhigao Zheng**, Ziyi Zhang, Yingxia Shao, Ce Zhang. How good are machine learning clouds? Benchmarking two snapshots over 5 years. The VLDB Journal, 2024 (33):833-857. (**CCF A**)
 - Cheng Dai, Ying Zhang, **Zhigao Zheng***. A Nonlocal Similarity Learning-Based Tensor Completion Model With Its Application in Intelligent Transportation System, IEEE Transactions on Intelligent Transportation Systems, 2024, 25(3): 3140-3151. (IF: 8.5)
