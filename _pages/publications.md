@@ -9,7 +9,7 @@ redirect_from:
 2025
 ====
 - Yuchen Liu, Ligang He, **Zhigao Zheng**, Shenyuan Ren. PFed-NS: an Adaptive Personalized Federated Learning Scheme through Neural Network Segmentation, IEEE Transactions on Computers. 2025 (**CCF A**)
-- Jiawei Jiang, Hao Huang, Zhigao Zheng, Yi Wei, Fangcheng Fu, Xiaosen Li, "Detecting and Analyzing Motifs in Large-Scale Online Transaction Networks," in IEEE Transactions on Knowledge and Data Engineering, 2025, 37(2): 584-596, Feb. 2025, doi: 10.1109/TKDE.2024.3511136.
+- Jiawei Jiang, Hao Huang, **Zhigao Zheng**, Yi Wei, Fangcheng Fu, Xiaosen Li, "Detecting and Analyzing Motifs in Large-Scale Online Transaction Networks," in IEEE Transactions on Knowledge and Data Engineering, 2025, 37(2): 584-596, Feb. 2025, doi: 10.1109/TKDE.2024.3511136.
 - Shihui Wang, Yulan Yang, Zixin Tan, **Zhigao Zheng**, Jiawei Jiang, Hao Huang, Quanqing Xu, Chuanhui Yang. GADACE: Graph Anomaly Detection Combining
 Attribute Contrast and Structure Reconstruction. In Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), Hyderabad, India. April 06 - April 11, 2025.
 - Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, **Zhigao Zheng**, Shangdong Zhu, Chenggang Yan. SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI' 25), Pennsylvania, USA. February 25 – March 4, 2025.(**CCF A**)
