@@ -22,7 +22,7 @@ redirect_from:
 - CPSCom 2023 (Program Vice-Chair) 
 
 **Program Committee**
-- WISE 2024
+- WISE 2024, 2025
 - IEEE Globecom 2024, 2025
 - TheWebConf (WWW) 2023, 2024, 2025
 - NeurIPS 2023, 2024, 2025
