@@ -15,7 +15,7 @@ redirect_from:
 Attribute Contrast and Structure Reconstruction. In Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), Hyderabad, India. April 06 - April 11, 2025.
 - Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, **Zhigao Zheng**, Shangdong Zhu, Chenggang Yan. SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI' 25), Pennsylvania, USA. February 25 – March 4, 2025.(**CCF A**)
 - **Zhigao Zheng**, Guojia Wan, Jiawei Jiang, Chuang Hu, Hao Liu, Shahid Mumtaz, Bo Du. Lock-free Triangle Counting on GPU. IEEE Transactions on Computers, 2025, 74(3): 1040-1052. (**CCF A**)
-- Tianyu Tu, Zhili He, **Zhigao Zheng***, Zimu Zheng, Jiawei Jiang, Yili Gong, Chuang Hu, Dazhao Cheng. Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT. IEEE Internet of Things Journal, 2025, 12(4): 3441-3452. doi: 10.1109/JIOT.2024.3396282. (IF: 10.6)
+- Tianyu Tu, Zhili He, **Zhigao Zheng***, Zimu Zheng, Jiawei Jiang, Yili Gong, Chuang Hu, Dazhao Cheng. Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT. IEEE Internet of Things Journal, 2025, 12(4): 3441-3452. (IF: 10.6)
 
 2024
 =====
