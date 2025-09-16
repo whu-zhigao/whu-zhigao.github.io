@@ -10,7 +10,7 @@ redirect_from:
 **Journal Editorial Services**
 
 - [IEEE Internet of Things Journal](https://ieee-iotj.org/) (Guest Editor from 2024.2)
-  -  Leading Guest Editor of the Special Issue: Graph-Powered Intelligent Computing for the Internet of Everything, [CFP](https://ieee-iotj.org/wp-content/uploads/2024/02/Graph_Powered_Computing.pdf) 
+  -  Leading Guest Editor of the Special Issue: Graph-Powered Intelligent Computing for the Internet of Everything, [CFP](https://ieee-iotj.org/wp-content/uploads/2024/02/Graph_Powered_Computing.pdf), [Published Issue](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10874850&punumber=6488907)
 - [IEEE Transactions on Consumer Electronics](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) (Associate Editor from 2023)
   - Guest Editor of the Special Section: Intelligent Generation and Retrieval for Consumer Electronics, [CFP](https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP-Intelligent_Generation_and_Retrieval_for_Consumer_Electronics_-_V1_online.pdf), 2025-2026
   - Leading Guest Editor of the Special Section: Cloud-edge Collaboration for Consumer Electronics, [CFP](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Cloud-edge%20Collaboration%20for%20Consumer%20Electronics.pdf), 2023-2024
