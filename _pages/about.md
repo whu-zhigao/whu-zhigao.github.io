@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **2025-09-19**:I am honoured to be recognised once again in the list of the World’s Top 2% Scientists for the year 2025, marking my fifth consecutive year of inclusion from 2020 to 2024. In this specific subfield, I have achieved a ranking 113 out of 9581 Researchers.
 - **2024-12-13**: One of our papers, [Improving Forest Management Efficiency: A New Metric for loT Node Deployment](http://www.ieee-hust-ncc.org/2024/HPCC/bestpaper.html), was selected as the Outstanding Paper of IEEE HPCC.
 - **2024-11-13**: One of our teams got the second prize in the [Computer System Development Capability Competition (Priority Research Application) 2024](https://os.educg.net/#/index?TYPE=PRA%20_2024).
 - **2024-09-26**: I was selected as the rising star of ACM-Wuhan.
