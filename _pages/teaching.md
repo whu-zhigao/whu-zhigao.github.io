@@ -19,7 +19,8 @@ redirect_from:
 - [Wireless Networks](https://www.springer.com/journal/11276) (Associate Editor Oct. 2022 - Aug. 2024)
 
 **Conference Organization Committee**
-- CPSCom 2023 (Program Vice-Chair) 
+- [GreenCom 2025](https://ieee-cybermatics.org/2025/greencom/)(Publicity Chairs)
+- [CPSCom 2023](https://ieee-cybermatics.org/2023/cpscom/) (Program Vice-Chair)
 
 **Program Committee**
 - AAAI 2026
