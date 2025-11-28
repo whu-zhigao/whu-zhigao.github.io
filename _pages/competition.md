@@ -14,6 +14,12 @@ I am currently recruiting **self-motivated and dedicated** students, with solid 
 Competition Teams:
 =====
 
+- 2025 ASC:
+  <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/competition/asc25.png" width="400" alt="ASC 2025" style="margin-bottom: 0;">
+  <br>
+  - Team: Yubang Wang (Team Leader), Ziyuan Wei, Haolin Ja, Xiuwen Ma, and Yurui Wu
+    
 - 2024 [Computer System Development Capability Competition (Priority Research Application)](https://os.educg.net/#/index?TYPE=PRA%20_2024).
 
 <div class="image-float">
