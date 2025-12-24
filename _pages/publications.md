@@ -9,7 +9,7 @@ redirect_from:
 2025
 ====
 - 王涛，王家阳，**郑志高***，刘毓，姚世红，林云. 基于扩散模型的可逆面部隐私保护方法, 太赫兹科学与电子信息学报.
-- Chen Zhao, **Zhigao Zheng***, Hao Huang, Hao Liu, Dacheng Tao, AdaptiveCore: Adaptive Parallel Core Decomposition Framework, IEEE Transactions on Computers, doi: 10.1109/TC.2025.3646191. **(CCF A)**
+- Chen Zhao, **Zhigao Zheng***, Hao Huang, Hao Liu, Dacheng Tao. AdaptiveCore: Adaptive Parallel Core Decomposition Framework, IEEE Transactions on Computers, doi: 10.1109/TC.2025.3646191. **(CCF A)**
 - Peichen Xie, **Zhigao Zheng***, Yongluan Zhou, Yang Xiu, Hao Liu, ZhiXiang Yang, Yu Zhang, Bo Du. GPU Architectures in Graph Analytics: A Comparative Experimental Study. In Proceedings of the 28th International Conference on Extending Database Technology (EDBT), 25th March - 28th March, 2025. Barcelona, Spain. (**CCF B**)
 - Yuchen Liu, Ligang He, **Zhigao Zheng**, Shenyuan Ren. PFed-NS: an Adaptive Personalized Federated Learning Scheme through Neural Network Segmentation, IEEE Transactions on Computers. 2025, DOI: 10.1109/TC.2025.3547138 (**CCF A**)
 - Jiawei Jiang, Hao Huang, **Zhigao Zheng**, Yi Wei, Fangcheng Fu, Xiaosen Li, "Detecting and Analyzing Motifs in Large-Scale Online Transaction Networks," IEEE Transactions on Knowledge and Data Engineering, 2025, 37(2): 584-596, Feb. 2025. (**CCF A**)
