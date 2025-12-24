@@ -69,6 +69,7 @@ Awards
 ======
 
 - Second prize of CICC Scientific and Technological Progress
+- IEEE Outstanding Service Award for serving as the Publicity Chair of the 2025 IEEE International Conference on Green Computing and Communications (GreenCom 2025).
 - Rising Star of ACM-Wuhan, 2024.
 - IEEE International Conference on High Performance Computing and Communications (IEEE HPCC) Outstanding Paper Award, [Improving Forest Management Efficiency: A New Metric for loT Node Deployment](http://www.ieee-hust-ncc.org/2024/HPCC/bestpaper.html), Wuhan, 2024.
 - [Outstanding Ph.D. Dissertation Award of Embedded Systems of CCF](https://mp.weixin.qq.com/s/_ak4tL8ibKBGG0lJZzO9LA), 2024.
