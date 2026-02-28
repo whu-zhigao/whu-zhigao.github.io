@@ -6,10 +6,18 @@ redirect_from:
   - /md/
   - /publication.html
 ---
+2026
+====
+- Ting Gan, Kudereti Kuerban, Qian Yan, Ling Han, **Zhigao Zheng***, and Hao Huang. 2026. Multi-task Inference of Diffusion Networks. In Proceedings of the ACM Web Conference 2026 (WWW ’26), April 13–17, 2026, Dubai, United Arab Emirates. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3774904.3792222. **(CCF A)**
+- Zhigao Zheng, Kai Yin, Yaowen Kuang, Tao Wang, Yahong Chen, Shihong Yao, and Hao Huang. 2026. DeepUL: Deep Unlearning via Model Sparsity. In Proceedings of the ACM Web Conference 2026 (WWW ’26), April 13–17, 2026, Dubai, United Arab Emirates. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3774904.3792441. **(CCF A)**
+- Chen Zhao, **Zhigao Zheng***, Hao Huang, Hao Liu, Dacheng Tao. AdaptiveCore: Adaptive Parallel Core Decomposition Framework. IEEE Transactions on Computers, vol. 75, no. 3, pp. 1111-1124, March 2026, doi: 10.1109/TC.2025.3646191. **(CCF A)**
+
 2025
 ====
 - 王涛，王家阳，**郑志高***，刘毓，姚世红，林云. 基于扩散模型的可逆面部隐私保护方法, 太赫兹科学与电子信息学报.
-- Chen Zhao, **Zhigao Zheng***, Hao Huang, Hao Liu, Dacheng Tao. AdaptiveCore: Adaptive Parallel Core Decomposition Framework, IEEE Transactions on Computers, doi: 10.1109/TC.2025.3646191. **(CCF A)**
+- Mingxin Wang, Yulan Yang, Qian Yan, Kudereti Kuerban, Ting Gan, Ling Han, **Zhigao Zheng**, Hao Huang. Incremental Update of Diffusion Network Topologies," 2025 IEEE Smart World Congress (SWC), Calgary, AB, Canada, 2025, pp. 993-1000, doi: 10.1109/SWC65939.2025.00161.
+- Kai Yin, **Zhigao Zheng**, Qian Yan, Kudereti Kuerban, Ting Gan, Hao Liu, Zhixiang Yang, Hao Huang. Triangle Counting Over Large-Scale Directed Graphs. 2025 IEEE International Conference on High Performance Computing and Communications (HPCC), Exeter, United Kingdom, 2025, pp. 42-49, doi: 10.1109/HPCC67675.2025.00025. 
+- Tao Wang, Yaowen Kuang, Zhigao Zheng, Xiao Xie, Xin Gu. PD-GAN: Palmprint De-Identification Based on Generative Adversarial Networks. IEEE Transactions on Consumer Electronics, vol. 71, no. 4, pp. 9510-9521, Nov. 2025, doi: 10.1109/TCE.2025.3620834.
 - Peichen Xie, **Zhigao Zheng***, Yongluan Zhou, Yang Xiu, Hao Liu, ZhiXiang Yang, Yu Zhang, Bo Du. GPU Architectures in Graph Analytics: A Comparative Experimental Study. In Proceedings of the 28th International Conference on Extending Database Technology (EDBT), 25th March - 28th March, 2025. Barcelona, Spain. (**CCF B**)
 - Yuchen Liu, Ligang He, **Zhigao Zheng**, Shenyuan Ren. PFed-NS: an Adaptive Personalized Federated Learning Scheme through Neural Network Segmentation, IEEE Transactions on Computers. 2025, DOI: 10.1109/TC.2025.3547138 (**CCF A**)
 - Jiawei Jiang, Hao Huang, **Zhigao Zheng**, Yi Wei, Fangcheng Fu, Xiaosen Li, "Detecting and Analyzing Motifs in Large-Scale Online Transaction Networks," IEEE Transactions on Knowledge and Data Engineering, 2025, 37(2): 584-596, Feb. 2025. (**CCF A**)
