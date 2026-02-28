@@ -68,7 +68,9 @@ Current Projects
 Awards
 ======
 
-- Second prize of CICC Scientific and Technological Progress
+- Second Prize of the Scientific and Technological Progress Award from the Chinese Institute of Command and Control (CICC), 2025
+- Third Prize of the  Scientific and Technological Progress Award from Hubei Province, 2025
+- Youth Science and Technology Award from the Cooperative Computing Committee of the China Computer Federation (CCF), 2025
 - IEEE Outstanding Service Award for serving as the Publicity Chair of the 2025 IEEE International Conference on Green Computing and Communications (GreenCom 2025).
 - Rising Star of ACM-Wuhan, 2024.
 - IEEE International Conference on High Performance Computing and Communications (IEEE HPCC) Outstanding Paper Award, [Improving Forest Management Efficiency: A New Metric for loT Node Deployment](http://www.ieee-hust-ncc.org/2024/HPCC/bestpaper.html), Wuhan, 2024.
