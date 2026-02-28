@@ -21,6 +21,7 @@ redirect_from:
 
 **Conference Organization Committee**
 - [NCAA 2026](https://aaci.org.hk/ncaa2026/organization/organizingCommittee#page-anchor) (General Chair)
+- [FedCSIS](https://2026.fedcsis.org/) (General Chair)
 - [GreenCom 2025](https://ieee-cybermatics.org/2025/greencom/) (Publicity Chair)
 - [CPSCom 2023](https://ieee-cybermatics.org/2023/cpscom/) (Program Vice-Chair)
 
