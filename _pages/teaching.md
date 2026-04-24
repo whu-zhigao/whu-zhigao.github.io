@@ -26,6 +26,7 @@ redirect_from:
 - [CPSCom 2023](https://ieee-cybermatics.org/2023/cpscom/) (Program Vice-Chair)
 
 **Program Committee**
+- ACM MM 2026
 - AAAI 2026
 - WISE 2024, 2025
 - IEEE Globecom 2024, 2025
