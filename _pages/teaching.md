@@ -21,6 +21,7 @@ redirect_from:
 
 **Conference Organization Committee**
 - [NCAA 2026](https://aaci.org.hk/ncaa2026/organization/organizingCommittee#page-anchor) (General Chair)
+- [ICESS 2026](https://ieee-hyper-intelligence.org/2026/icess/index.html)(General Chair)
 - [FedCSIS](https://2026.fedcsis.org/) (General Chair)
 - [GreenCom 2025](https://ieee-cybermatics.org/2025/greencom/) (Publicity Chair)
 - [CPSCom 2023](https://ieee-cybermatics.org/2023/cpscom/) (Program Vice-Chair)
@@ -29,7 +30,7 @@ redirect_from:
 - ACM MM 2026
 - AAAI 2026
 - WISE 2024, 2025
-- IEEE Globecom 2024, 2025
+- IEEE GlobeCom 2024, 2025, 2026
 - TheWebConf (WWW) 2023, 2024, 2025
 - NeurIPS 2023, 2024, 2025
 - SEKE 2016, 2017, 2018, 2019
