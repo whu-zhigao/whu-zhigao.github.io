@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **2026-06-05**: I was selected as the Associate Editor of [IEEE Consumer Electronics Magazine](https://ctsoc.ieee.org/publications/ieee-consumer-electronics-magazine).
 - **2025-09-26**: Our project was selected as the second prize of CICC Scientific and Technological Progress.
 - **2025-09-19**: I am honoured to be recognised once again in the list of the World’s Top 2% Scientists for the year 2025, marking my fifth consecutive year of inclusion from 2020 to 2024. In this specific subfield, I have achieved a ranking 113 out of 9581 Researchers.
 - **2025-08-15**: One of our paper was selected as the best paper of HPCC 2025.
