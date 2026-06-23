@@ -29,8 +29,8 @@ redirect_from:
 
 **Program Committee**
 - ACM MM 2026
-- AAAI 2026
-- WISE 2024, 2025
+- AAAI 2026, 2027
+- WISE 2024, 2025, 2026
 - IEEE GlobeCom 2024, 2025, 2026
 - TheWebConf (WWW) 2023, 2024, 2025
 - NeurIPS 2023, 2024, 2025
