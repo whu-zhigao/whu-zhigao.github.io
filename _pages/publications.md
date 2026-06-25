@@ -8,6 +8,8 @@ redirect_from:
 ---
 2026
 ====
+- Bo Liu, Yingnan Guo, Shun Wang, Shaofeng Zhao, Haokun Zheng, Haojie Huang, Jing Yang, Yuan Gao, Xiaokang Wang, Zhigao Zheng. One Modality is Enough: Multi-Modal Backdoor Attacks via Prototype-based Modality Rebalancing and Data Selection, IEEE Transactions on Consumer Electronics, DOI: 10.1109/TCE.2026.3675597
+- Bo Liu, Peiwen Zhu, Shaofeng Zhao, Xiang Chen, Haojie Huang, Liling Shi, Xiaokang Wang, **Zhigao Zheng**, Laurence T. Yang. "Delayed Backdoor: Let the Trigger Fly for a While in Backdoor Attack on Internet of Things," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2026.3686078.
 - Ting Gan, Kudereti Kuerban, Qian Yan, Ling Han, **Zhigao Zheng***, and Hao Huang. 2026. Multi-task Inference of Diffusion Networks. In Proceedings of the ACM Web Conference 2026 (WWW ’26), April 13–17, 2026, Dubai, United Arab Emirates. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3774904.3792222. **(CCF A)**
 - Zhigao Zheng, Kai Yin, Yaowen Kuang, Tao Wang, Yahong Chen, Shihong Yao, and Hao Huang. 2026. DeepUL: Deep Unlearning via Model Sparsity. In Proceedings of the ACM Web Conference 2026 (WWW ’26), April 13–17, 2026, Dubai, United Arab Emirates. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3774904.3792441. **(CCF A)**
 - Chen Zhao, **Zhigao Zheng***, Hao Huang, Hao Liu, Dacheng Tao. AdaptiveCore: Adaptive Parallel Core Decomposition Framework. IEEE Transactions on Computers, vol. 75, no. 3, pp. 1111-1124, March 2026, doi: 10.1109/TC.2025.3646191. **(CCF A)**
