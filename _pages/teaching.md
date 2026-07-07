@@ -28,6 +28,7 @@ redirect_from:
 - [CPSCom 2023](https://ieee-cybermatics.org/2023/cpscom/) (Program Vice-Chair)
 
 **Program Committee**
+- HPCChina 2026
 - ACM MM 2026
 - AAAI 2026, 2027
 - WISE 2024, 2025, 2026
