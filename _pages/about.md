@@ -69,8 +69,10 @@ Current Projects
 Awards
 ======
 
-- Second Prize of the Scientific and Technological Progress Award from the Chinese Institute of Command and Control (CICC), 2025
-- Third Prize of the  Scientific and Technological Progress Award from Hubei Province, 2025
+- Youth Science and Technology Award of the Chinese Institute of Command and Control (CICC), 2026
+- First Prize of the Science and Technology Progress Award of the Chinese Institute of Command and Control (CICC), 2026
+- Second Prize of the Science and Technology Progress Award of the Chinese Institute of Command and Control (CICC), 2025
+- Third Prize of the Hubei Province Science and Technology Progress Award, 2025
 - Youth Science and Technology Award from the Cooperative Computing Committee of the China Computer Federation (CCF), 2025
 - IEEE International Conference on High Performance Computing and Communications (IEEE HPCC) Best Paper Award, GNN-Enhanced Multimodal Fusion with Contrastive Learning for Smart Health Oriented High Performance Recommendation System, Exeter, UK, 2025.
 - IEEE Outstanding Service Award for serving as the Publicity Chair of the 2025 IEEE International Conference on Green Computing and Communications (GreenCom 2025).
